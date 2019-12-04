@@ -1,0 +1,91 @@
+This is LuaTeX, Version 1.11.2 (MiKTeX 2.9.7250 64-bit)  (format=lualatex 2019.12.2)  3 DEC 2019 23:16
+ restricted system commands enabled.
+**var.tex
+(./var.tex
+LaTeX2e <2019-10-01> patch level 3
+Lua module: luaotfload-main 2019-11-10 3.11 luaotfload entry point
+Lua module: luaotfload-init 2019-11-10 3.11 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2019-11-06 2.69 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2019-11-06 2.69 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2019-11-10 3.11 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2019-11-10 3.11 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2019-11-10 3.11 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is C:/Users/hp/AppData/Local/MiKTeX/2.9
+/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2019-10-29.lua” from kpse
+-resolved path “C:/Users/hp/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luaot
+fload/fontloader-2019-10-29.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2019-11-10 3.11 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2019-11-10 3.11 luaotfload submodule / database
+Lua module: luaotfload-unicode 2019-11-10 3.11 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2019-11-10 3.11 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2019-11-10 3.11 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is C:/Users/hp/AppData/Local/MiKTeX/2.9
+/luatex-cache/generic/names.
+Lua module: luaotfload-features 2019-11-10 3.11 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2019-11-10 3.11 luaotfload submodule / color
+Lua module: luaotfload-embolden 2019-11-10 3.11 luaotfload submodule / color
+Lua module: luaotfload-notdef 2019-11-10 3.11 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2019-11-10 3.11 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-multiscript 2019-11-10 3.11 luaotfload submodule / multis
+cript
+Lua module: luaotfload-tounicode 2019-11-10 3.11 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 2.975 seconds
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \usepackage[utf8]{
+                    inputenc}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+)
+! Emergency stop.
+<*> var.tex
+        
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 10 strings out of 493869
+ 100000,106986 words of node,token memory allocated 272 words of node memory still in use:
+   1 dir, 3 kern, 1 glyph, 1 attribute, 35 glue_spec, 1 attribute_list nodes
+   avail lists: 2:10,3:1,4:1
+ 4801 multiletter control sequences out of 65536+200000
+ 14 fonts using 591679 bytes
+ 7i,0n,6p,95b,15s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,810 @@
+,National №,Type,Species,Height,Weight,Abilities,Local №
+Bulbasaur,001,Grass Poison,Seed Pokémon,0.7 m (2′04″),6.9 kg (15.2 lbs),Overgrow Chlorophyll,001  226  001  231  080  001 
+Ivysaur,002,Grass Poison,Seed Pokémon,1.0 m (3′03″),13.0 kg (28.7 lbs),Overgrow Chlorophyll,002  227  002  232  081  002 
+Venusaur,003,Grass Poison Grass Poison,Seed Pokémon,2.0 m (6′07″) 2.4 m (7′10″),100.0 kg (220.5 lbs) 155.5 kg (342.8 lbs),Overgrow Chlorophyll Thick Fat,003  228  003  233  082  003  003  228  003  233  082  003 
+Charmander,004,Fire,Lizard Pokémon,0.6 m (2′00″),8.5 kg (18.7 lbs),Blaze Solar Power,004  229  004  234  083  004  378 
+Charmeleon,005,Fire,Flame Pokémon,1.1 m (3′07″),19.0 kg (41.9 lbs),Blaze Solar Power,005  230  005  235  084  005  379 
+Charizard,006,Fire Flying Fire Dragon Fire Flying,Flame Pokémon,1.7 m (5′07″),90.5 kg (199.5 lbs) 110.5 kg (243.6 lbs) 100.5 kg (221.6 lbs),Blaze Solar Power Tough Claws Drought,006  231  006  236  085  006  380  006  231  006  236  085  006  380  006  231  006  236  085  006  380 
+Squirtle,007,Water,Tiny Turtle Pokémon,0.5 m (1′08″),9.0 kg (19.8 lbs),Torrent Rain Dish,007  232  007  237  086  007 
+Wartortle,008,Water,Turtle Pokémon,1.0 m (3′03″),22.5 kg (49.6 lbs),Torrent Rain Dish,008  233  008  238  087  008 
+Blastoise,009,Water,Shellfish Pokémon,1.6 m (5′03″),85.5 kg (188.5 lbs) 101.1 kg (222.9 lbs),Torrent Rain Dish Mega Launcher,009  234  009  239  088  009  009  234  009  239  088  009 
+Caterpie,010,Bug,Worm Pokémon,0.3 m (1′00″),2.9 kg (6.4 lbs),Shield Dust Run Away,010  024  010  024  023  017  017  010  013 
+Metapod,011,Bug,Cocoon Pokémon,0.7 m (2′04″),9.9 kg (21.8 lbs),Shed Skin,011  025  011  025  024  018  018  011  014 
+Butterfree,012,Bug Flying,Butterfly Pokémon,1.1 m (3′07″),32.0 kg (70.5 lbs),Compound Eyes Tinted Lens,012  026  012  026  025  019  019  012  015 
+Weedle,013,Bug Poison,Hairy Bug Pokémon,0.3 m (1′00″),3.2 kg (7.1 lbs),Shield Dust Run Away,013  027  013  027  026  013 
+Kakuna,014,Bug Poison,Cocoon Pokémon,0.6 m (2′00″),10.0 kg (22.0 lbs),Shed Skin,014  028  014  028  027  014 
+Beedrill,015,Bug Poison Bug Poison,Poison Bee Pokémon,1.0 m (3′03″) 1.4 m (4′07″),29.5 kg (65.0 lbs) 40.5 kg (89.3 lbs),Swarm Sniper Adaptability,015  029  015  029  028  015  015  029  015  029  028  015 
+Pidgey,016,Normal Flying,Tiny Bird Pokémon,0.3 m (1′00″),1.8 kg (4.0 lbs),Keen Eye Tangled Feet Big Pecks,016  010  016  010  017  016 
+Pidgeotto,017,Normal Flying,Bird Pokémon,1.1 m (3′07″),30.0 kg (66.1 lbs),Keen Eye Tangled Feet Big Pecks,017  011  017  011  018  017 
+Pidgeot,018,Normal Flying Normal Flying,Bird Pokémon,1.5 m (4′11″) 2.2 m (7′03″),39.5 kg (87.1 lbs) 50.5 kg (111.3 lbs),Keen Eye Tangled Feet Big Pecks No Guard,018  012  018  012  019  018  018  012  018  012  019  018 
+Rattata,019,Normal Dark Normal,Mouse Pokémon,0.3 m (1′00″),3.5 kg (7.7 lbs) 3.8 kg (8.4 lbs),Run Away Guts Hustle Gluttony Hustle Thick Fat,019  017  019  017  059  015  015  019  019  017  019  017  059  015  015  019 
+Raticate,020,Normal Dark Normal,Mouse Pokémon,0.7 m (2′04″),18.5 kg (40.8 lbs) 25.5 kg (56.2 lbs),Run Away Guts Hustle Gluttony Hustle Thick Fat,020  018  020  018  060  016  016  020  020  018  020  018  060  016  016  020 
+Spearow,021,Normal Flying,Tiny Bird Pokémon,0.3 m (1′00″),2.0 kg (4.4 lbs),Keen Eye Sniper,021  013  021  013  109  073  087  021 
+Fearow,022,Normal Flying,Beak Pokémon,1.2 m (3′11″),38.0 kg (83.8 lbs),Keen Eye Sniper,022  014  022  014  110  074  088  022 
+Ekans,023,Poison,Snake Pokémon,2.0 m (6′07″),6.9 kg (15.2 lbs),Intimidate Shed Skin Unnerve,023  050  023  050  037  061  023 
+Arbok,024,Poison,Cobra Pokémon,3.5 m (11′06″),65.0 kg (143.3 lbs),Intimidate Shed Skin Unnerve,024  051  024  051  038  062  024 
+Pikachu,025,Electric,Mouse Pokémon,0.4 m (1′04″),6.0 kg (13.2 lbs),Static Lightning Rod,025  022  156  025  104  104  022  036  163  025  032  025  194  025  022  156  025  104  104  022  036  163  025  032  025  194 
+Raichu,026,Electric,Mouse Pokémon,0.8 m (2′07″) 0.7 m (2′04″),30.0 kg (66.1 lbs) 21.0 kg (46.3 lbs),Static Lightning Rod Surge Surfer,026  023  157  026  105  105  023  037  164  026  033  026  195  026  023  157  026  105  105  023  037  164  026  033  026  195 
+Sandshrew,027,Ground Ice Steel,Mouse Pokémon,0.6 m (2′00″) 0.7 m (2′04″),12.0 kg (26.5 lbs) 40.0 kg (88.2 lbs),Sand Veil Sand Rush Snow Cloak Slush Rush,027  048  112  027  048  113  097  117  251  328  027  027  048  112  027  048  113  097  117  251  328  027 
+Sandslash,028,Ground Ice Steel,Mouse Pokémon,1.0 m (3′03″) 1.2 m (3′11″),29.5 kg (65.0 lbs) 55.0 kg (121.3 lbs),Sand Veil Sand Rush Snow Cloak Slush Rush,028  049  113  028  049  114  098  118  252  329  028  028  049  113  028  049  114  098  118  252  329  028 
+Nidoran♀,029,Poison,Poison Pin Pokémon,0.4 m (1′04″),7.0 kg (15.4 lbs),Poison Point Rivalry Hustle,029  095  029  095  104  029 
+Nidorina,030,Poison,Poison Pin Pokémon,0.8 m (2′07″),20.0 kg (44.1 lbs),Poison Point Rivalry Hustle,030  096  030  096  105  030 
+Nidoqueen,031,Poison Ground,Drill Pokémon,1.3 m (4′03″),60.0 kg (132.3 lbs),Poison Point Rivalry Sheer Force,031  097  031  097  106  031 
+Nidoran♂,032,Poison,Poison Pin Pokémon,0.5 m (1′08″),9.0 kg (19.8 lbs),Poison Point Rivalry Hustle,032  098  032  098  107  032 
+Nidorino,033,Poison,Poison Pin Pokémon,0.9 m (2′11″),19.5 kg (43.0 lbs),Poison Point Rivalry Hustle,033  099  033  099  108  033 
+Nidoking,034,Poison Ground,Drill Pokémon,1.4 m (4′07″),62.0 kg (136.7 lbs),Poison Point Rivalry Sheer Force,034  100  034  100  109  034 
+Clefairy,035,Fairy,Fairy Pokémon,0.6 m (2′00″),7.5 kg (16.5 lbs),Cute Charm Magic Guard Friend Guard,035  041  035  100  100  041  089  211  273  035  255 
+Clefable,036,Fairy,Fairy Pokémon,1.3 m (4′03″),40.0 kg (88.2 lbs),Cute Charm Magic Guard Unaware,036  042  036  101  101  042  090  212  274  036  256 
+Vulpix,037,Fire Ice,Fox Pokémon,0.6 m (2′00″),9.9 kg (21.8 lbs),Flash Fire Drought Snow Cloak Snow Warning,037  125  153  037  127  248  160  253  330  037  068  037  125  153  037  127  248  160  253  330  037  068 
+Ninetales,038,Fire Ice Fairy,Fox Pokémon,1.1 m (3′07″),19.9 kg (43.9 lbs),Flash Fire Drought Snow Cloak Snow Warning,038  126  154  038  128  249  161  254  331  038  069  038  126  154  038  128  249  161  254  331  038  069 
+Jigglypuff,039,Normal Fairy,Balloon Pokémon,0.5 m (1′08″),5.5 kg (12.1 lbs),Cute Charm Competitive Friend Guard,039  044  138  039  044  282  120  143  135  168  039 
+Wigglytuff,040,Normal Fairy,Balloon Pokémon,1.0 m (3′03″),12.0 kg (26.5 lbs),Cute Charm Competitive Frisk,040  045  139  040  045  283  121  144  136  169  040 
+Zubat,041,Poison Flying,Bat Pokémon,0.8 m (2′07″),7.5 kg (16.5 lbs),Inner Focus Infiltrator,041  037  063  041  028  028  037  061  145  065  068  080  041 
+Golbat,042,Poison Flying,Bat Pokémon,1.6 m (5′03″),55.0 kg (121.3 lbs),Inner Focus Infiltrator,042  038  064  042  029  029  038  062  146  066  069  081  042 
+Oddish,043,Grass Poison,Weed Pokémon,0.5 m (1′08″),5.4 kg (11.9 lbs),Chlorophyll Run Away,043  083  088  043  083  105  091  043  055 
+Gloom,044,Grass Poison,Weed Pokémon,0.8 m (2′07″),8.6 kg (19.0 lbs),Chlorophyll Stench,044  084  089  044  084  106  092  044  056 
+Vileplume,045,Grass Poison,Flower Pokémon,1.2 m (3′11″),18.6 kg (41.0 lbs),Chlorophyll Effect Spore,045  085  090  045  085  107  093  045  057 
+Paras,046,Bug Grass,Mushroom Pokémon,0.3 m (1′00″),5.4 kg (11.9 lbs),Effect Spore Dry Skin Damp,046  070  046  070  147  180  046 
+Parasect,047,Bug Grass,Mushroom Pokémon,1.0 m (3′03″),29.5 kg (65.0 lbs),Effect Spore Dry Skin Damp,047  071  047  071  148  181  047 
+Venonat,048,Bug Poison,Insect Pokémon,1.0 m (3′03″),30.0 kg (66.1 lbs),Compound Eyes Tinted Lens Run Away,048  108  048  109  048 
+Venomoth,049,Bug Poison,Poison Moth Pokémon,1.5 m (4′11″),12.5 kg (27.6 lbs),Shield Dust Tinted Lens Wonder Skin,049  109  049  110  049 
+Diglett,050,Ground,Mole Pokémon,0.2 m (0′08″),0.8 kg (1.8 lbs) 1.0 kg (2.2 lbs),Sand Veil Arena Trap Sand Force Sand Veil Tangling Hair Sand Force,050  132  050  134  001  071  085  050  164  050  132  050  134  001  071  085  050  164 
+Dugtrio,051,Ground,Mole Pokémon,0.7 m (2′04″),33.3 kg (73.4 lbs) 66.6 kg (146.8 lbs),Sand Veil Arena Trap Sand Force Sand Veil Tangling Hair Sand Force,051  133  051  135  002  072  086  051  165  051  133  051  135  002  072  086  051  165 
+Meowth,052,Normal Dark Steel,Scratch Cat Pokémon,0.4 m (1′04″),4.2 kg (9.3 lbs),Pickup Technician Unnerve Pickup Technician Rattled Pickup Tough Claws Unnerve,052  136  052  138  045  052  052  182  052  136  052  138  045  052  052  182  052  136  052  138  045  052  052  182 
+Persian,053,Normal Dark,Classy Cat Pokémon,1.0 m (3′03″) 1.1 m (3′07″),32.0 kg (70.5 lbs) 33.0 kg (72.8 lbs),Limber Technician Unnerve Fur Coat Technician Rattled,053  137  053  139  046  053  053  184  053  137  053  139  046  053  053  184 
+Psyduck,054,Water,Duck Pokémon,0.8 m (2′07″),19.6 kg (43.2 lbs),Damp Cloud Nine Swift Swim,054  138  158  054  043  043  140  028  059  165  089  107  054 
+Golduck,055,Water,Duck Pokémon,1.7 m (5′07″),76.6 kg (168.9 lbs),Damp Cloud Nine Swift Swim,055  139  159  055  044  044  141  029  060  166  090  108  055 
+Mankey,056,Fighting,Pig Monkey Pokémon,0.5 m (1′08″),28.0 kg (61.7 lbs),Vital Spirit Anger Point Defiant,056  134  056  136  079  093  056 
+Primeape,057,Fighting,Pig Monkey Pokémon,1.0 m (3′03″),32.0 kg (70.5 lbs),Vital Spirit Anger Point Defiant,057  135  057  137  080  094  057 
+Growlithe,058,Fire,Puppy Pokémon,0.7 m (2′04″),19.0 kg (41.9 lbs),Intimidate Flash Fire Justified,058  127  058  129  051  052  064  058  070 
+Arcanine,059,Fire,Legendary Pokémon,1.9 m (6′03″),155.0 kg (341.7 lbs),Intimidate Flash Fire Justified,059  128  059  130  052  053  065  059  071 
+Poliwag,060,Water,Tadpole Pokémon,0.6 m (2′00″),12.4 kg (27.3 lbs),Water Absorb Damp Swift Swim,060  072  060  072  033  149  182  060 
+Poliwhirl,061,Water,Tadpole Pokémon,1.0 m (3′03″),20.0 kg (44.1 lbs),Water Absorb Damp Swift Swim,061  073  061  073  034  150  183  061 
+Poliwrath,062,Water Fighting,Tadpole Pokémon,1.3 m (4′03″),54.0 kg (119.0 lbs),Water Absorb Damp Swift Swim,062  074  062  074  035  151  184  062 
+Abra,063,Psychic,Psi Pokémon,0.9 m (2′11″),19.5 kg (43.0 lbs),Synchronize Inner Focus Magic Guard,063  089  039  063  020  020  089  102  040  042  049  063 
+Kadabra,064,Psychic,Psi Pokémon,1.3 m (4′03″),56.5 kg (124.6 lbs),Synchronize Inner Focus Magic Guard,064  090  040  064  021  021  090  103  041  043  050  064 
+Alakazam,065,Psychic,Psi Pokémon,1.5 m (4′11″) 1.2 m (3′11″),48.0 kg (105.8 lbs),Synchronize Inner Focus Magic Guard Trace,065  091  041  065  022  022  091  104  042  044  051  065  065  091  041  065  022  022  091  104  042  044  051  065 
+Machop,066,Fighting,Superpower Pokémon,0.8 m (2′07″),19.5 kg (43.0 lbs),Guts No Guard Steadfast,066  140  073  066  040  040  142  057  075  095  117  066  138 
+Machoke,067,Fighting,Superpower Pokémon,1.5 m (4′11″),70.5 kg (155.4 lbs),Guts No Guard Steadfast,067  141  074  067  041  041  143  058  076  096  118  067  139 
+Machamp,068,Fighting,Superpower Pokémon,1.6 m (5′03″),130.0 kg (286.6 lbs),Guts No Guard Steadfast,068  142  075  068  042  042  144  059  077  097  119  068  140 
+Bellsprout,069,Grass Poison,Flower Pokémon,0.7 m (2′04″),4.0 kg (8.8 lbs),Chlorophyll Gluttony,069  064  069  064  026  069 
+Weepinbell,070,Grass Poison,Flycatcher Pokémon,1.0 m (3′03″),6.4 kg (14.1 lbs),Chlorophyll Gluttony,070  065  070  065  027  070 
+Victreebel,071,Grass Poison,Flycatcher Pokémon,1.7 m (5′07″),15.5 kg (34.2 lbs),Chlorophyll Gluttony,071  066  071  066  028  071 
+Tentacool,072,Water Poison,Jellyfish Pokémon,0.9 m (2′11″),45.5 kg (100.3 lbs),Clear Body Liquid Ooze Rain Dish,072  162  066  072  136  136  164  025  068  106  129  072 
+Tentacruel,073,Water Poison,Jellyfish Pokémon,1.6 m (5′03″),55.0 kg (121.3 lbs),Clear Body Liquid Ooze Rain Dish,073  163  067  073  137  137  165  026  069  107  130  073 
+Geodude,074,Rock Ground Rock Electric,Rock Pokémon,0.4 m (1′04″),20.0 kg (44.1 lbs) 20.3 kg (44.8 lbs),Rock Head Sturdy Sand Veil Magnet Pull Sturdy Galvanize,074  034  057  074  031  031  034  009  058  229  298  074  074  034  057  074  031  031  034  009  058  229  298  074 
+Graveler,075,Rock Ground Rock Electric,Rock Pokémon,1.0 m (3′03″),105.0 kg (231.5 lbs) 110.0 kg (242.5 lbs),Rock Head Sturdy Sand Veil Magnet Pull Sturdy Galvanize,075  035  058  075  032  032  035  010  059  230  299  075  075  035  058  075  032  032  035  010  059  230  299  075 
+Golem,076,Rock Ground Rock Electric,Megaton Pokémon,1.4 m (4′07″) 1.7 m (5′07″),300.0 kg (661.4 lbs) 316.0 kg (696.7 lbs),Rock Head Sturdy Sand Veil Magnet Pull Sturdy Galvanize,076  036  059  076  033  033  036  011  060  231  300  076  076  036  059  076  033  033  036  011  060  231  300  076 
+Ponyta,077,Fire Psychic,Fire Horse Pokémon Unique Horn Pokémon,1.0 m (3′03″) 0.8 m (2′07″),30.0 kg (66.1 lbs) 24.0 kg (52.9 lbs),Run Away Flash Fire Flame Body Run Away Pastel Veil Anticipation,077  201  077  090  090  206  077  333  077  201  077  090  090  206  077  333 
+Rapidash,078,Fire Psychic Fairy,Fire Horse Pokémon Unique Horn Pokémon,1.7 m (5′07″),95.0 kg (209.4 lbs) 80.0 kg (176.4 lbs),Run Away Flash Fire Flame Body Run Away Pastel Veil Anticipation,078  202  078  091  091  207  078  334  078  202  078  091  091  207  078  334 
+Slowpoke,079,Water Psychic,Dopey Pokémon,1.2 m (3′11″),36.0 kg (79.4 lbs),Oblivious Own Tempo Regenerator,079  080  079  080  133  037  044  079 
+Slowbro,080,Water Psychic Water Psychic,Hermit Crab Pokémon,1.6 m (5′03″) 2.0 m (6′07″),78.5 kg (173.1 lbs) 120.0 kg (264.6 lbs),Oblivious Own Tempo Regenerator Shell Armor,080  081  080  081  134  038  045  080  080  081  080  081  134  038  045  080 
+Magnemite,081,Electric Steel,Magnet Pokémon,0.3 m (1′00″),6.0 kg (13.2 lbs),Magnet Pull Sturdy Analytic,081  118  082  081  178  119  048  069  084  047  054  081 
+Magneton,082,Electric Steel,Magnet Pokémon,1.0 m (3′03″),60.0 kg (132.3 lbs),Magnet Pull Sturdy Analytic,082  119  083  082  179  120  049  070  085  048  055  082 
+Farfetch'd,083,Normal Flying Fighting,Wild Duck Pokémon,0.8 m (2′07″),15.0 kg (33.1 lbs) 42.0 kg (92.6 lbs),Keen Eye Inner Focus Defiant Steadfast Scrappy,083  158  083  160  061  083  218  083  158  083  160  061  083  218 
+Doduo,084,Normal Flying,Twin Bird Pokémon,1.4 m (4′07″),39.2 kg (86.4 lbs),Run Away Early Bird Tangled Feet,084  199  092  084  204  094  095  084 
+Dodrio,085,Normal Flying,Triple Bird Pokémon,1.8 m (5′11″),85.2 kg (187.8 lbs),Run Away Early Bird Tangled Feet,085  200  093  085  205  095  096  085 
+Seel,086,Water,Sea Lion Pokémon,1.1 m (3′07″),90.0 kg (198.4 lbs),Thick Fat Hydration Ice Body,086  176  086  178  265  115  086 
+Dewgong,087,Water Ice,Sea Lion Pokémon,1.7 m (5′07″),120.0 kg (264.6 lbs),Thick Fat Hydration Ice Body,087  177  087  179  266  116  087 
+Grimer,088,Poison,Sludge Pokémon,0.9 m (2′11″) 0.7 m (2′04″),30.0 kg (66.1 lbs) 42.0 kg (92.6 lbs),Stench Sticky Hold Poison Touch Poison Touch Gluttony Power of Alchemy,088  116  106  088  117  064  111  050  057  088  088  116  106  088  117  064  111  050  057  088 
+Muk,089,Poison,Sludge Pokémon,1.2 m (3′11″) 1.0 m (3′03″),30.0 kg (66.1 lbs) 52.0 kg (114.6 lbs),Stench Sticky Hold Poison Touch Poison Touch Gluttony Power of Alchemy,089  117  107  089  118  065  112  051  058  089  089  117  107  089  118  065  112  051  058  089 
+Shellder,090,Water,Bivalve Pokémon,0.3 m (1′00″),4.0 kg (8.8 lbs),Shell Armor Skill Link Overcoat,090  169  090  171  036  115  138  090  150 
+Cloyster,091,Water Ice,Bivalve Pokémon,1.5 m (4′11″),132.5 kg (292.1 lbs),Shell Armor Skill Link Overcoat,091  170  091  172  037  116  139  091  151 
+Gastly,092,Ghost Poison,Gas Pokémon,1.3 m (4′03″),0.1 kg (0.2 lbs),Levitate,092  058  092  069  069  058  030  061  073  092  141 
+Haunter,093,Ghost Poison,Gas Pokémon,1.6 m (5′03″),0.1 kg (0.2 lbs),Levitate,093  059  093  070  070  059  031  062  074  093  142 
+Gengar,094,Ghost Poison Ghost Poison,Shadow Pokémon,1.5 m (4′11″) 1.4 m (4′07″),40.5 kg (89.3 lbs),Cursed Body Shadow Tag,094  060  094  071  071  060  032  063  075  094  143  094  060  094  071  071  060  032  063  075  094  143 
+Onix,095,Rock Ground,Rock Snake Pokémon,8.8 m (28′10″),210.0 kg (463.0 lbs),Rock Head Sturdy Weak Armor,095  062  095  034  034  062  071  053  095  178 
+Drowzee,096,Psychic,Hypnosis Pokémon,1.0 m (3′03″),32.4 kg (71.4 lbs),Insomnia Forewarn Inner Focus,096  087  096  087  054  066  096 
+Hypno,097,Psychic,Hypnosis Pokémon,1.6 m (5′03″),75.6 kg (166.7 lbs),Insomnia Forewarn Inner Focus,097  088  097  088  055  067  097 
+Krabby,098,Water,River Crab Pokémon,0.4 m (1′04″),6.5 kg (14.3 lbs),Hyper Cutter Shell Armor Sheer Force,098  164  098  166  098  098 
+Kingler,099,Water,Pincer Pokémon,1.3 m (4′03″),60.0 kg (132.3 lbs),Hyper Cutter Shell Armor Sheer Force,099  165  099  167  099  099 
+Voltorb,100,Electric,Ball Pokémon,0.5 m (1′08″),10.4 kg (22.9 lbs),Soundproof Static Aftermath,100  120  084  100  121  072  087  100 
+Electrode,101,Electric,Ball Pokémon,1.2 m (3′11″),66.6 kg (146.8 lbs),Soundproof Static Aftermath,101  121  085  101  122  073  088  101 
+Exeggcute,102,Grass Psychic,Egg Pokémon,0.4 m (1′04″),2.5 kg (5.5 lbs),Chlorophyll Harvest,102  104  102  105  136  269  355  102 
+Exeggutor,103,Grass Psychic Grass Dragon,Coconut Pokémon,2.0 m (6′07″) 10.9 m (35′09″),120.0 kg (264.6 lbs) 415.6 kg (916.2 lbs),Chlorophyll Harvest Frisk Harvest,103  105  103  106  137  270  356  103  103  105  103  106  137  270  356  103 
+Cubone,104,Ground,Lonely Pokémon,0.4 m (1′04″),6.5 kg (14.3 lbs),Rock Head Lightning Rod Battle Armor,104  203  104  208  060  163  197  104 
+Marowak,105,Ground Fire Ghost,Bone Keeper Pokémon,1.0 m (3′03″),45.0 kg (99.2 lbs) 34.0 kg (75.0 lbs),Rock Head Lightning Rod Battle Armor Cursed Body Lightning Rod Rock Head,105  204  105  209  061  164  198  105  105  204  105  209  061  164  198  105 
+Hitmonlee,106,Fighting,Kicking Pokémon,1.5 m (4′11″),49.8 kg (109.8 lbs),Limber Reckless Unburden,106  144  106  146  106  108 
+Hitmonchan,107,Fighting,Punching Pokémon,1.4 m (4′07″),50.2 kg (110.7 lbs),Keen Eye Iron Fist Inner Focus,107  145  107  147  107  109 
+Lickitung,108,Normal,Licking Pokémon,1.2 m (3′11″),65.5 kg (144.4 lbs),Own Tempo Oblivious Cloud Nine,108  178  108  161  180  284  134  375  108 
+Koffing,109,Poison,Poison Gas Pokémon,0.6 m (2′00″),1.0 kg (2.2 lbs),Levitate,109  114  108  109  115  046  113  109  250 
+Weezing,110,Poison,Poison Gas Pokémon,1.2 m (3′11″) 3.0 m (9′10″),9.5 kg (20.9 lbs) 16.0 kg (35.3 lbs),Levitate,110  115  109  110  116  047  114  110  251  110  115  109  110  116  047  114  110  251 
+Rhyhorn,111,Ground Rock,Spikes Pokémon,1.0 m (3′03″),115.0 kg (253.5 lbs),Lightning Rod Rock Head Reckless,111  206  169  111  186  211  050  176  111  264 
+Rhydon,112,Ground Rock,Drill Pokémon,1.9 m (6′03″),120.0 kg (264.6 lbs),Lightning Rod Rock Head Reckless,112  207  170  112  187  212  051  177  112  265 
+Chansey,113,Normal,Egg Pokémon,1.1 m (3′07″),34.6 kg (76.3 lbs),Natural Cure Serene Grace Healer,113  217  113  097  097  222  033  040  113 
+Tangela,114,Grass,Vine Pokémon,1.0 m (3′03″),35.0 kg (77.2 lbs),Chlorophyll Leaf Guard Regenerator,114  179  114  181  182  217  114 
+Kangaskhan,115,Normal,Parent Pokémon,2.2 m (7′03″),80.0 kg (176.4 lbs) 100.0 kg (220.5 lbs),Early Bird Scrappy Inner Focus Parental Bond,115  205  115  210  062  165  199  115  115  205  115  210  062  165  199  115 
+Horsea,116,Water,Dragon Pokémon,0.4 m (1′04″),8.0 kg (17.6 lbs),Swift Swim Sniper Damp,116  186  184  116  190  039  193  116 
+Seadra,117,Water,Dragon Pokémon,1.2 m (3′11″),25.0 kg (55.1 lbs),Poison Point Sniper Damp,117  187  185  117  191  040  194  117 
+Goldeen,118,Water,Goldfish Pokémon,0.6 m (2′00″),15.0 kg (33.1 lbs),Swift Swim Water Veil Lightning Rod,118  078  050  118  078  078  078  053  051  153  186  118  146 
+Seaking,119,Water,Goldfish Pokémon,1.3 m (4′03″),39.0 kg (86.0 lbs),Swift Swim Water Veil Lightning Rod,119  079  051  119  079  079  079  054  052  154  187  119  147 
+Staryu,120,Water,Star Shape Pokémon,0.8 m (2′07″),34.5 kg (76.1 lbs),Illuminate Natural Cure Analytic,120  167  143  120  169  238  034  148  184  223  120 
+Starmie,121,Water Psychic,Mysterious Pokémon,1.1 m (3′07″),80.0 kg (176.4 lbs),Illuminate Natural Cure Analytic,121  168  144  121  170  239  035  149  185  224  121 
+Mr. Mime,122,Psychic Fairy Psychic Ice,Barrier Pokémon Dancing Pokémon,1.3 m (4′03″) 1.4 m (4′07″),54.5 kg (120.2 lbs) 56.8 kg (125.2 lbs),Soundproof Filter Technician Vital Spirit Screen Cleaner Ice Body,122  156  122  095  095  158  114  060  122  365  122  156  122  095  095  158  114  060  122  365 
+Scyther,123,Bug Flying,Mantis Pokémon,1.5 m (4′11″),56.0 kg (123.5 lbs),Swarm Technician Steadfast,123  110  123  195  111  136  275  365  123 
+Jynx,124,Ice Psychic,Human Shape Pokémon,1.4 m (4′07″),40.6 kg (89.5 lbs),Oblivious Forewarn Dry Skin,124  153  124  155  084  110  124 
+Electabuzz,125,Electric,Electric Pokémon,1.1 m (3′07″),30.0 kg (66.1 lbs),Static Vital Spirit,125  155  125  198  157  057  227  296  125 
+Magmar,126,Fire,Spitfire Pokémon,1.3 m (4′03″),44.5 kg (98.1 lbs),Flame Body Vital Spirit,126  151  126  201  153  054  167  201  126 
+Pinsir,127,Bug,Stag Beetle Pokémon,1.5 m (4′11″) 1.7 m (5′07″),55.0 kg (121.3 lbs) 59.0 kg (130.1 lbs),Hyper Cutter Mold Breaker Moxie Aerilate,127  112  167  127  113  146  130  174  175  211  127  127  112  167  127  113  146  130  174  175  211  127 
+Tauros,128,Normal,Wild Bull Pokémon,1.4 m (4′07″),88.4 kg (194.9 lbs),Intimidate Anger Point Sheer Force,128  148  128  150  125  137  170  128 
+Magikarp,129,Water,Fish Pokémon,0.9 m (2′11″),10.0 kg (22.0 lbs),Swift Swim Rattled,129  076  052  129  023  023  076  049  053  091  111  129  144 
+Gyarados,130,Water Flying Water Dark,Atrocious Pokémon,6.5 m (21′04″),235.0 kg (518.1 lbs) 305.0 kg (672.4 lbs),Intimidate Moxie Mold Breaker,130  077  053  130  024  024  077  050  054  092  112  130  145  130  077  053  130  024  024  077  050  054  092  112  130  145 
+Lapras,131,Water Ice,Transport Pokémon,2.5 m (8′02″),220.0 kg (485.0 lbs),Water Absorb Shell Armor Hydration,131  219  131  224  242  150  268  353  131  361 
+Ditto,132,Normal,Transform Pokémon,0.3 m (1′00″),4.0 kg (8.8 lbs),Limber Imposter,132  092  132  092  261  138  209  271  132  373 
+Eevee,133,Normal,Evolution Pokémon,0.3 m (1′00″),6.5 kg (14.3 lbs),Run Away Adaptability Anticipation,133  180  133  163  184  091  077  123  153  133  196  133  180  133  163  184  091  077  123  153  133  196 
+Vaporeon,134,Water,Bubble Jet Pokémon,1.0 m (3′03″),29.0 kg (63.9 lbs),Water Absorb Hydration,134  181  134  164  185  092  078  124  154  134  197 
+Jolteon,135,Electric,Lightning Pokémon,0.8 m (2′07″),24.5 kg (54.0 lbs),Volt Absorb Quick Feet,135  182  135  165  186  093  079  125  155  135  198 
+Flareon,136,Fire,Flame Pokémon,0.9 m (2′11″),25.0 kg (55.1 lbs),Flash Fire Guts,136  183  136  166  187  094  080  126  156  136  199 
+Porygon,137,Normal,Virtual Pokémon,0.8 m (2′07″),36.5 kg (80.5 lbs),Trace Download Analytic,137  215  137  192  220  217  281  137 
+Omanyte,138,Rock Water,Spiral Pokémon,0.4 m (1′04″),7.5 kg (16.5 lbs),Swift Swim Shell Armor Weak Armor,138  220  138  225  227  138 
+Omastar,139,Rock Water,Spiral Pokémon,1.0 m (3′03″),35.0 kg (77.2 lbs),Swift Swim Shell Armor Weak Armor,139  221  139  226  228  139 
+Kabuto,140,Rock Water,Shellfish Pokémon,0.5 m (1′08″),11.5 kg (25.4 lbs),Swift Swim Battle Armor Weak Armor,140  222  140  227  229  140 
+Kabutops,141,Rock Water,Shellfish Pokémon,1.3 m (4′03″),40.5 kg (89.3 lbs),Swift Swim Battle Armor Weak Armor,141  223  141  228  230  141 
+Aerodactyl,142,Rock Flying Rock Flying,Fossil Pokémon,1.8 m (5′11″) 2.1 m (6′11″),59.0 kg (130.1 lbs) 79.0 kg (174.2 lbs),Rock Head Pressure Unnerve Tough Claws,142  224  142  229  068  284  382  142  142  224  142  229  068  284  382  142 
+Snorlax,143,Normal,Sleeping Pokémon,2.1 m (6′11″),460.0 kg (1014.1 lbs),Immunity Thick Fat Gluttony,143  225  143  113  113  230  139  036  043  143  261 
+Articuno,144,Ice Flying,Freeze Pokémon,1.7 m (5′07″),55.4 kg (122.1 lbs),Pressure Snow Cloak,144  235  144  240  151  144 
+Zapdos,145,Electric Flying,Electric Pokémon,1.6 m (5′03″),52.6 kg (116.0 lbs),Pressure Static,145  236  145  241  152  145 
+Moltres,146,Fire Flying,Flame Pokémon,2.0 m (6′07″),60.0 kg (132.3 lbs),Pressure Flame Body,146  237  146  242  153  146 
+Dratini,147,Dragon,Dragon Pokémon,1.8 m (5′11″),3.3 kg (7.3 lbs),Shed Skin Marvel Scale,147  241  147  246  145  281  379  147 
+Dragonair,148,Dragon,Dragon Pokémon,4.0 m (13′01″),16.5 kg (36.4 lbs),Shed Skin Marvel Scale,148  242  148  247  146  282  380  148 
+Dragonite,149,Dragon Flying,Dragon Pokémon,2.2 m (7′03″),210.0 kg (463.0 lbs),Inner Focus Multiscale,149  243  149  248  147  283  381  149 
+Mewtwo,150,Psychic,Genetic Pokémon,2.0 m (6′07″) 2.3 m (7′07″) 1.5 m (4′11″),122.0 kg (269.0 lbs) 127.0 kg (280.0 lbs) 33.0 kg (72.8 lbs),Pressure Unnerve Steadfast Insomnia,150  249  150  254  151  150  150  249  150  254  151  150  150  249  150  254  151  150 
+Mew,151,Psychic,New Species Pokémon,0.4 m (1′04″),4.0 kg (8.8 lbs),Synchronize,151  250  151  255  151 
+Chikorita,152,Grass,Leaf Pokémon,0.9 m (2′11″),6.4 kg (14.1 lbs),Overgrow Leaf Guard,001 
+Bayleef,153,Grass,Leaf Pokémon,1.2 m (3′11″),15.8 kg (34.8 lbs),Overgrow Leaf Guard,002 
+Meganium,154,Grass,Herb Pokémon,1.8 m (5′11″),100.5 kg (221.6 lbs),Overgrow Leaf Guard,003 
+Cyndaquil,155,Fire,Fire Mouse Pokémon,0.5 m (1′08″),7.9 kg (17.4 lbs),Blaze Flash Fire,004 
+Quilava,156,Fire,Volcano Pokémon,0.9 m (2′11″),19.0 kg (41.9 lbs),Blaze Flash Fire,005 
+Typhlosion,157,Fire,Volcano Pokémon,1.7 m (5′07″),79.5 kg (175.3 lbs),Blaze Flash Fire,006 
+Totodile,158,Water,Big Jaw Pokémon,0.6 m (2′00″),9.5 kg (20.9 lbs),Torrent Sheer Force,007 
+Croconaw,159,Water,Big Jaw Pokémon,1.1 m (3′07″),25.0 kg (55.1 lbs),Torrent Sheer Force,008 
+Feraligatr,160,Water,Big Jaw Pokémon,2.3 m (7′07″),88.8 kg (195.8 lbs),Torrent Sheer Force,009 
+Sentret,161,Normal,Scout Pokémon,0.8 m (2′07″),6.0 kg (13.2 lbs),Run Away Keen Eye Frisk,019 
+Furret,162,Normal,Long Body Pokémon,1.8 m (5′11″),32.5 kg (71.7 lbs),Run Away Keen Eye Frisk,020 
+Hoothoot,163,Normal Flying,Owl Pokémon,0.7 m (2′04″),21.2 kg (46.7 lbs),Insomnia Keen Eye Tinted Lens,015  106  106  015  117  212  019 
+Noctowl,164,Normal Flying,Owl Pokémon,1.6 m (5′03″),40.8 kg (89.9 lbs),Insomnia Keen Eye Tinted Lens,016  107  107  016  118  213  020 
+Ledyba,165,Bug Flying,Five Star Pokémon,1.0 m (3′03″),10.8 kg (23.8 lbs),Swarm Early Bird Rattled,030 
+Ledian,166,Bug Flying,Five Star Pokémon,1.4 m (4′07″),35.6 kg (78.5 lbs),Swarm Early Bird Iron Fist,031 
+Spinarak,167,Bug Poison,String Spit Pokémon,0.5 m (1′08″),8.5 kg (18.7 lbs),Swarm Insomnia Sniper,032 
+Ariados,168,Bug Poison,Long Leg Pokémon,1.1 m (3′07″),33.5 kg (73.9 lbs),Swarm Insomnia Sniper,033 
+Crobat,169,Poison Flying,Bat Pokémon,1.8 m (5′11″),75.0 kg (165.3 lbs),Inner Focus Infiltrator,039  065  030  030  039  063  147  067  070  082 
+Chinchou,170,Water Electric,Angler Pokémon,0.5 m (1′08″),12.0 kg (26.5 lbs),Volt Absorb Illuminate Water Absorb,174  181  176  147  190  201  257  220 
+Lanturn,171,Water Electric,Light Pokémon,1.2 m (3′11″),22.5 kg (49.6 lbs),Volt Absorb Illuminate Water Absorb,175  182  177  148  191  202  258  221 
+Pichu,172,Electric,Tiny Mouse Pokémon,0.3 m (1′00″),2.0 kg (4.4 lbs),Static Lightning Rod,021  155  103  103  021  035  162  024  031  193 
+Cleffa,173,Fairy,Star Shape Pokémon,0.3 m (1′00″),3.0 kg (6.6 lbs),Cute Charm Magic Guard Friend Guard,040  099  099  040  088  210  272  254 
+Igglybuff,174,Normal Fairy,Balloon Pokémon,0.3 m (1′00″),1.0 kg (2.2 lbs),Cute Charm Competitive Friend Guard,043  137  043  281  119  142  134  167 
+Togepi,175,Fairy,Spike Ball Pokémon,0.3 m (1′00″),1.5 kg (3.3 lbs),Hustle Serene Grace Super Luck,046  173  046  257 
+Togetic,176,Fairy Flying,Happiness Pokémon,0.6 m (2′00″),3.2 kg (7.1 lbs),Hustle Serene Grace Super Luck,047  174  047  258 
+Natu,177,Psychic Flying,Tiny Bird Pokémon,0.2 m (0′08″),2.0 kg (4.4 lbs),Synchronize Early Bird Magic Bounce,159  162  161  169  252  092 
+Xatu,178,Psychic Flying,Mystic Pokémon,1.5 m (4′11″),15.0 kg (33.1 lbs),Synchronize Early Bird Magic Bounce,160  163  162  170  253  093 
+Mareep,179,Electric,Wool Pokémon,0.6 m (2′00″),7.8 kg (17.2 lbs),Static Plus,053 
+Flaaffy,180,Electric,Wool Pokémon,0.8 m (2′07″),13.3 kg (29.3 lbs),Static Plus,054 
+Ampharos,181,Electric,Light Pokémon,1.4 m (4′07″),61.5 kg (135.6 lbs),Static Plus Mold Breaker,055 
+Bellossom,182,Grass,Flower Pokémon,0.4 m (1′04″),5.8 kg (12.8 lbs),Chlorophyll Healer,086  091  086  108  094  058 
+Marill,183,Water Fairy,Aqua Mouse Pokémon,0.4 m (1′04″),8.5 kg (18.7 lbs),Thick Fat Huge Power Sap Sipper,130  055  125  125  132  031  042  056 
+Azumarill,184,Water Fairy,Aqua Rabbit Pokémon,0.8 m (2′07″),28.5 kg (62.8 lbs),Thick Fat Huge Power Sap Sipper,131  056  126  126  133  032  043  057 
+Sudowoodo,185,Rock,Imitation Pokémon,1.2 m (3′11″),38.0 kg (83.8 lbs),Sturdy Rock Head Rattled,106  093  093  107  130  031  038  253 
+Politoed,186,Water,Frog Pokémon,1.1 m (3′07″),33.9 kg (74.7 lbs),Water Absorb Damp Drizzle,075 
+Hoppip,187,Grass Flying,Cottonweed Pokémon,0.4 m (1′04″),0.5 kg (1.1 lbs),Chlorophyll Leaf Guard Infiltrator,067 
+Skiploom,188,Grass Flying,Cottonweed Pokémon,0.6 m (2′00″),1.0 kg (2.2 lbs),Chlorophyll Leaf Guard Infiltrator,068 
+Jumpluff,189,Grass Flying,Cottonweed Pokémon,0.8 m (2′07″),3.0 kg (6.6 lbs),Chlorophyll Leaf Guard Infiltrator,069 
+Aipom,190,Normal,Long Tail Pokémon,0.8 m (2′07″),11.5 kg (25.4 lbs),Run Away Pickup Skill Link,122  063  063  123  368 
+Sunkern,191,Grass,Seed Pokémon,0.3 m (1′00″),1.8 kg (4.0 lbs),Chlorophyll Solar Power Early Bird,102  103  020 
+Sunflora,192,Grass,Sun Pokémon,0.8 m (2′07″),8.5 kg (18.7 lbs),Chlorophyll Solar Power Early Bird,103  104  021 
+Yanma,193,Bug Flying,Clear Wing Pokémon,1.2 m (3′11″),38.0 kg (83.8 lbs),Speed Boost Compound Eyes Frisk,101  183  101  286  087 
+Wooper,194,Water Ground,Water Fish Pokémon,0.4 m (1′04″),8.5 kg (18.7 lbs),Damp Water Absorb Unaware,056  117  117  056  017  100 
+Quagsire,195,Water Ground,Water Fish Pokémon,1.4 m (4′07″),75.0 kg (165.3 lbs),Damp Water Absorb Unaware,057  118  118  057  018  101 
+Espeon,196,Psychic,Sun Pokémon,0.9 m (2′11″),26.5 kg (58.4 lbs),Synchronize Magic Bounce,184  167  188  095  081  127  157  200 
+Umbreon,197,Dark,Moonlight Pokémon,1.0 m (3′03″),27.0 kg (59.5 lbs),Synchronize Inner Focus,185  168  189  096  082  128  158  201 
+Murkrow,198,Dark Flying,Darkness Pokémon,0.5 m (1′08″),2.1 kg (4.6 lbs),Insomnia Super Luck Prankster,208  074  074  213  051  277  078 
+Slowking,199,Water Psychic,Royal Pokémon,2.0 m (6′07″),79.5 kg (175.3 lbs),Oblivious Own Tempo Regenerator,082 
+Misdreavus,200,Ghost,Screech Pokémon,0.7 m (2′04″),1.0 kg (2.2 lbs),Levitate,214  072  072  219  066  372 
+Unown,201,Psychic,Symbol Pokémon,0.5 m (1′08″),5.0 kg (11.0 lbs),Levitate,061  114  114  061 
+Wobbuffet,202,Psychic,Patient Pokémon,1.3 m (4′03″),28.5 kg (62.8 lbs),Shadow Tag Telepathy,107  161  108  119  168  217 
+Girafarig,203,Normal Psychic,Long Neck Pokémon,1.5 m (4′11″),41.5 kg (91.5 lbs),Inner Focus Early Bird Sap Sipper,147  164  121  121  149  171 
+Pineco,204,Bug,Bagworm Pokémon,0.6 m (2′00″),7.2 kg (15.9 lbs),Sturdy Overcoat,093 
+Forretress,205,Bug Steel,Bagworm Pokémon,1.2 m (3′11″),125.8 kg (277.3 lbs),Sturdy Overcoat,094 
+Dunsparce,206,Normal,Land Snake Pokémon,1.5 m (4′11″),14.0 kg (30.9 lbs),Serene Grace Run Away Rattled,052 
+Gligar,207,Ground Flying,FlyScorpion Pokémon,1.1 m (3′07″),64.8 kg (142.9 lbs),Hyper Cutter Sand Veil Immunity,189  153  193  221  115 
+Steelix,208,Steel Ground Steel Ground,Iron Snake Pokémon,9.2 m (30′02″) 10.5 m (34′05″),400.0 kg (881.8 lbs) 740.0 kg (1631.4 lbs),Rock Head Sturdy Sheer Force Sand Force,063  035  035  063  072  054  179  063  035  035  063  072  054  179 
+Snubbull,209,Fairy,Fairy Pokémon,0.6 m (2′00″),7.8 kg (17.2 lbs),Intimidate Run Away Rattled,123  125  071  258  339 
+Granbull,210,Fairy,Fairy Pokémon,1.4 m (4′07″),48.7 kg (107.4 lbs),Intimidate Quick Feet Rattled,124  126  072  259  340 
+Qwilfish,211,Water Poison,Balloon Pokémon,0.5 m (1′08″),3.9 kg (8.6 lbs),Poison Point Swift Swim Intimidate,161  163  038  304 
+Scizor,212,Bug Steel Bug Steel,Pincer Pokémon,1.8 m (5′11″) 2.0 m (6′07″),118.0 kg (260.1 lbs) 125.0 kg (275.6 lbs),Swarm Technician Light Metal Technician,111  196  112  137  276  366  111  196  112  137  276  366 
+Shuckle,213,Bug Rock,Mold Pokémon,0.6 m (2′00″),20.5 kg (45.2 lbs),Sturdy Gluttony Contrary,166  168  232  014  227 
+Heracross,214,Bug Fighting Bug Fighting,Single Horn Pokémon,1.5 m (4′11″) 1.7 m (5′07″),54.0 kg (119.0 lbs) 62.5 kg (137.8 lbs),Swarm Guts Moxie Skill Link,113  168  062  062  114  145  131  175  367  113  168  062  062  114  145  131  175  367 
+Sneasel,215,Dark Ice,Sharp Claw Pokémon,0.9 m (2′11″),28.0 kg (61.7 lbs),Inner Focus Keen Eye Pickpocket,213  144  144  218  252  091  249  326  292 
+Teddiursa,216,Normal,Little Bear Pokémon,0.6 m (2′00″),8.8 kg (19.4 lbs),Pickup Quick Feet Honey Gather,193  198  132 
+Ursaring,217,Normal,Hibernator Pokémon,1.8 m (5′11″),125.8 kg (277.3 lbs),Guts Quick Feet Unnerve,194  199  133 
+Slugma,218,Fire,Lava Pokémon,0.7 m (2′04″),35.0 kg (77.2 lbs),Magma Armor Flame Body Weak Armor,211  103  216  012  108 
+Magcargo,219,Fire Rock,Lava Pokémon,0.8 m (2′07″),55.0 kg (121.3 lbs),Magma Armor Flame Body Weak Armor,212  104  217  013  109 
+Swinub,220,Ice Ground,Pig Pokémon,0.4 m (1′04″),6.5 kg (14.3 lbs),Oblivious Snow Cloak Thick Fat,191  203  195  258  076  075 
+Piloswine,221,Ice Ground,Swine Pokémon,1.1 m (3′07″),55.8 kg (123.0 lbs),Oblivious Snow Cloak Thick Fat,192  204  196  259  077  076 
+Corsola,222,Water Rock Ghost,Coral Pokémon,0.6 m (2′00″),5.0 kg (11.0 lbs) 0.5 kg (1.1 lbs),Hustle Natural Cure Regenerator Weak Armor Cursed Body,171  180  173  237  146  189  112  135  236  171  180  173  237  146  189  112  135  236 
+Remoraid,223,Water,Jet Pokémon,0.6 m (2′00″),12.0 kg (26.5 lbs),Hustle Sniper Moody,172  132  132  174  235  144  143  148 
+Octillery,224,Water,Jet Pokémon,0.9 m (2′11″),28.5 kg (62.8 lbs),Suction Cups Sniper Moody,173  133  133  175  236  145  144  149 
+Delibird,225,Ice Flying,Delivery Pokémon,0.9 m (2′11″),16.0 kg (35.3 lbs),Vital Spirit Hustle Insomnia,190  194  254  090  081  095  078 
+Mantine,226,Water Flying,Kite Pokémon,2.1 m (6′11″),220.0 kg (485.0 lbs),Swift Swim Water Absorb Water Veil,197  141  141  202  234  140  146  355 
+Skarmory,227,Steel Flying,Armor Bird Pokémon,1.7 m (5′07″),50.5 kg (111.3 lbs),Keen Eye Sturdy Weak Armor,198  115  203  203  112  120  208  270 
+Houndour,228,Dark Fire,Dark Pokémon,0.6 m (2′00″),10.8 kg (23.8 lbs),Early Bird Flash Fire Unnerve,209  176  214  075  289 
+Houndoom,229,Dark Fire Dark Fire,Dark Pokémon,1.4 m (4′07″) 1.9 m (6′03″),35.0 kg (77.2 lbs) 49.5 kg (109.1 lbs),Early Bird Flash Fire Unnerve Solar Power,210  177  215  076  290  210  177  215  076  290 
+Kingdra,230,Water Dragon,Dragon Pokémon,1.8 m (5′11″),152.0 kg (335.1 lbs),Swift Swim Sniper Damp,188  186  192  041  195 
+Phanpy,231,Ground,Long Nose Pokémon,0.5 m (1′08″),33.5 kg (73.9 lbs),Pickup Sand Veil,195  165  200  172 
+Donphan,232,Ground,Armor Pokémon,1.1 m (3′07″),120.0 kg (264.6 lbs),Sturdy Sand Veil,196  166  201  173 
+Porygon2,233,Normal,Virtual Pokémon,0.6 m (2′00″),32.5 kg (71.7 lbs),Trace Download Analytic,216  193  221  218  282 
+Stantler,234,Normal,Big Horn Pokémon,1.4 m (4′07″),71.2 kg (157.0 lbs),Intimidate Frisk Sap Sipper,129  131 
+Smeargle,235,Normal,Painter Pokémon,1.2 m (3′11″),58.0 kg (127.9 lbs),Own Tempo Technician Moody,157  159  124  058  070 
+Tyrogue,236,Fighting,Scuffle Pokémon,0.7 m (2′04″),21.0 kg (46.3 lbs),Guts Steadfast Vital Spirit,143  145  107 
+Hitmontop,237,Fighting,Handstand Pokémon,1.4 m (4′07″),48.0 kg (105.8 lbs),Intimidate Technician Steadfast,146  148  110 
+Smoochum,238,Ice Psychic,Kiss Pokémon,0.4 m (1′04″),6.0 kg (13.2 lbs),Oblivious Forewarn Hydration,152  154  083  109 
+Elekid,239,Electric,Electric Pokémon,0.6 m (2′00″),23.5 kg (51.8 lbs),Static Vital Spirit,154  197  156  056  226  295 
+Magby,240,Fire,Live Coal Pokémon,0.7 m (2′04″),21.4 kg (47.2 lbs),Flame Body Vital Spirit,150  200  152  053  166  200 
+Miltank,241,Normal,Milk Cow Pokémon,1.2 m (3′11″),75.5 kg (166.4 lbs),Thick Fat Scrappy Sap Sipper,149  151  126  138  171 
+Blissey,242,Normal,Happiness Pokémon,1.5 m (4′11″),46.8 kg (103.2 lbs),Natural Cure Serene Grace Healer,218  098  098  223  034  041 
+Raikou,243,Electric,Thunder Pokémon,1.9 m (6′03″),178.0 kg (392.4 lbs),Pressure Inner Focus,238  243 
+Entei,244,Fire,Volcano Pokémon,2.1 m (6′11″),198.0 kg (436.5 lbs),Pressure Inner Focus,239  244 
+Suicune,245,Water,Aurora Pokémon,2.0 m (6′07″),187.0 kg (412.3 lbs),Pressure Inner Focus,240  245 
+Larvitar,246,Rock Ground,Rock Skin Pokémon,0.6 m (2′00″),72.0 kg (158.7 lbs),Guts Sand Veil,244  249  292  102  247  383 
+Pupitar,247,Rock Ground,Hard Shell Pokémon,1.2 m (3′11″),152.0 kg (335.1 lbs),Shed Skin,245  250  293  103  248  384 
+Tyranitar,248,Rock Dark Rock Dark,Armor Pokémon,2.0 m (6′07″) 2.5 m (8′02″),202.0 kg (445.3 lbs) 255.0 kg (562.2 lbs),Sand Stream Unnerve Sand Stream,246  251  294  104  249  385  246  251  294  104  249  385 
+Lugia,249,Psychic Flying,Diving Pokémon,5.2 m (17′01″),216.0 kg (476.2 lbs),Pressure Multiscale,247  252 
+Ho-oh,250,Fire Flying,Rainbow Pokémon,3.8 m (12′06″),199.0 kg (438.7 lbs),Pressure Regenerator,248  253 
+Celebi,251,Psychic Grass,Time Travel Pokémon,0.6 m (2′00″),5.0 kg (11.0 lbs),Natural Cure,251  256 
+Treecko,252,Grass,Wood Gecko Pokémon,0.5 m (1′08″),5.0 kg (11.0 lbs),Overgrow Unburden,001 
+Grovyle,253,Grass,Wood Gecko Pokémon,0.9 m (2′11″),21.6 kg (47.6 lbs),Overgrow Unburden,002 
+Sceptile,254,Grass,Forest Pokémon,1.7 m (5′07″) 1.9 m (6′03″),52.2 kg (115.1 lbs) 55.2 kg (121.7 lbs),Overgrow Unburden Lightning Rod,003 
+Torchic,255,Fire,Chick Pokémon,0.4 m (1′04″),2.5 kg (5.5 lbs),Blaze Speed Boost,004 
+Combusken,256,Fire Fighting,Young Fowl Pokémon,0.9 m (2′11″),19.5 kg (43.0 lbs),Blaze Speed Boost,005 
+Blaziken,257,Fire Fighting Fire Fighting,Blaze Pokémon,1.9 m (6′03″),52.0 kg (114.6 lbs),Blaze Speed Boost Speed Boost,006 
+Mudkip,258,Water,Mud Fish Pokémon,0.4 m (1′04″),7.6 kg (16.8 lbs),Torrent Damp,007 
+Marshtomp,259,Water Ground,Mud Fish Pokémon,0.7 m (2′04″),28.0 kg (61.7 lbs),Torrent Damp,008 
+Swampert,260,Water Ground Water Ground,Mud Fish Pokémon,1.5 m (4′11″) 1.9 m (6′03″),81.9 kg (180.6 lbs) 102.0 kg (224.9 lbs),Torrent Damp Swift Swim,009 
+Poochyena,261,Dark,Bite Pokémon,0.5 m (1′08″),13.6 kg (30.0 lbs),Run Away Quick Feet Rattled,010  044  010 
+Mightyena,262,Dark,Bite Pokémon,1.0 m (3′03″),37.0 kg (81.6 lbs),Intimidate Quick Feet Moxie,011  045  011 
+Zigzagoon,263,Normal Dark Normal,TinyRaccoon Pokémon Tiny Raccoon Pokémon,0.4 m (1′04″),17.5 kg (38.6 lbs),Pickup Gluttony Quick Feet Pickup Gluttony Quick Feet,012 
+Linoone,264,Normal Dark Normal,Rushing Pokémon,0.5 m (1′08″),32.5 kg (71.7 lbs),Pickup Gluttony Quick Feet Pickup Gluttony Quick Feet,013 
+Wurmple,265,Bug,Worm Pokémon,0.3 m (1′00″),3.6 kg (7.9 lbs),Shield Dust Run Away,014  048  048  014 
+Silcoon,266,Bug,Cocoon Pokémon,0.6 m (2′00″),10.0 kg (22.0 lbs),Shed Skin,015  049  049  015 
+Beautifly,267,Bug Flying,Butterfly Pokémon,1.0 m (3′03″),28.4 kg (62.6 lbs),Swarm Rivalry,016  050  050  016 
+Cascoon,268,Bug,Cocoon Pokémon,0.7 m (2′04″),11.5 kg (25.4 lbs),Shed Skin,017  051  051  017 
+Dustox,269,Bug Poison,Poison Moth Pokémon,1.2 m (3′11″),31.6 kg (69.7 lbs),Shield Dust Compound Eyes,018  052  052  018 
+Lotad,270,Water Grass,Water Weed Pokémon,0.5 m (1′08″),2.6 kg (5.7 lbs),Swift Swim Rain Dish Own Tempo,019  055  019  036 
+Lombre,271,Water Grass,Jolly Pokémon,1.2 m (3′11″),32.5 kg (71.7 lbs),Swift Swim Rain Dish Own Tempo,020  056  020  037 
+Ludicolo,272,Water Grass,Carefree Pokémon,1.5 m (4′11″),55.0 kg (121.3 lbs),Swift Swim Rain Dish Own Tempo,021  057  021  038 
+Seedot,273,Grass,Acorn Pokémon,0.5 m (1′08″),4.0 kg (8.8 lbs),Chlorophyll Early Bird Pickpocket,022 
+Nuzleaf,274,Grass Dark,Wily Pokémon,1.0 m (3′03″),28.0 kg (61.7 lbs),Chlorophyll Early Bird Pickpocket,023 
+Shiftry,275,Grass Dark,Wicked Pokémon,1.3 m (4′03″),59.6 kg (131.4 lbs),Chlorophyll Early Bird Pickpocket,024 
+Taillow,276,Normal Flying,TinySwallow Pokémon,0.3 m (1′00″),2.3 kg (5.1 lbs),Guts Scrappy,025  019  025 
+Swellow,277,Normal Flying,Swallow Pokémon,0.7 m (2′04″),19.8 kg (43.7 lbs),Guts Scrappy,026  020  026 
+Wingull,278,Water Flying,Seagull Pokémon,0.6 m (2′00″),9.5 kg (20.9 lbs),Keen Eye Hydration Rain Dish,027  119  119  212  017  027  040  047  062 
+Pelipper,279,Water Flying,Water Bird Pokémon,1.2 m (3′11″),28.0 kg (61.7 lbs),Keen Eye Drizzle Rain Dish,028  120  120  213  018  028  041  048  063 
+Ralts,280,Psychic Fairy,Feeling Pokémon,0.4 m (1′04″),6.6 kg (14.6 lbs),Synchronize Trace Telepathy,029  157  064  029  120 
+Kirlia,281,Psychic Fairy,Emotion Pokémon,0.8 m (2′07″),20.2 kg (44.5 lbs),Synchronize Trace Telepathy,030  158  065  030  121 
+Gardevoir,282,Psychic Fairy Psychic Fairy,Embrace Pokémon,1.6 m (5′03″),48.4 kg (106.7 lbs),Synchronize Trace Telepathy Pixilate,031  159  066  031  122  031  159  066  031  122 
+Surskit,283,Bug Water,Pond Skater Pokémon,0.5 m (1′08″),1.7 kg (3.7 lbs),Swift Swim Rain Dish,032  047  033  139  172 
+Masquerain,284,Bug Flying,Eyeball Pokémon,0.8 m (2′07″),3.6 kg (7.9 lbs),Intimidate Unnerve,033  048  034  140  173 
+Shroomish,285,Grass,Mushroom Pokémon,0.4 m (1′04″),4.5 kg (9.9 lbs),Effect Spore Poison Heal Quick Feet,034  035 
+Breloom,286,Grass Fighting,Mushroom Pokémon,1.2 m (3′11″),39.2 kg (86.4 lbs),Effect Spore Poison Heal Technician,035  036 
+Slakoth,287,Normal,Slacker Pokémon,0.8 m (2′07″),24.0 kg (52.9 lbs),Truant,036  276  037 
+Vigoroth,288,Normal,Wild Monkey Pokémon,1.4 m (4′07″),46.5 kg (102.5 lbs),Vital Spirit,037  277  038 
+Slaking,289,Normal,Lazy Pokémon,2.0 m (6′07″),130.5 kg (287.7 lbs),Truant,038  278  039 
+Nincada,290,Bug Ground,Trainee Pokémon,0.5 m (1′08″),5.5 kg (12.1 lbs),Compound Eyes Run Away,042  111  043  104 
+Ninjask,291,Bug Flying,Ninja Pokémon,0.8 m (2′07″),12.0 kg (26.5 lbs),Speed Boost Infiltrator,043  112  044  105 
+Shedinja,292,Bug Ghost,Shed Pokémon,0.8 m (2′07″),1.2 kg (2.6 lbs),Wonder Guard,044  113  045  106 
+Whismur,293,Normal,Whisper Pokémon,0.6 m (2′00″),16.3 kg (35.9 lbs),Soundproof Rattled,045  140  046 
+Loudred,294,Normal,Big Voice Pokémon,1.0 m (3′03″),40.5 kg (89.3 lbs),Soundproof Scrappy,046  141  047 
+Exploud,295,Normal,Loud Noise Pokémon,1.5 m (4′11″),84.0 kg (185.2 lbs),Soundproof Scrappy,047  142  048 
+Makuhita,296,Fighting,Guts Pokémon,1.0 m (3′03″),86.4 kg (190.5 lbs),Thick Fat Guts Sheer Force,048  095  049  056  068 
+Hariyama,297,Fighting,Arm Thrust Pokémon,2.3 m (7′07″),253.8 kg (559.5 lbs),Thick Fat Guts Sheer Force,049  096  050  057  069 
+Azurill,298,Normal Fairy,Polka Dot Pokémon,0.2 m (0′08″),2.0 kg (4.4 lbs),Thick Fat Huge Power Sap Sipper,054  124  124  030  041  055 
+Nosepass,299,Rock,Compass Pokémon,1.0 m (3′03″),97.0 kg (213.8 lbs),Sturdy Magnet Pull Sand Force,060  155  164  093  061  198  254 
+Skitty,300,Normal,Kitten Pokémon,0.6 m (2′00″),11.0 kg (24.3 lbs),Cute Charm Normalize Wonder Skin,061  078  078  063 
+Delcatty,301,Normal,Prim Pokémon,1.1 m (3′07″),32.6 kg (71.9 lbs),Cute Charm Normalize Wonder Skin,062  079  079  064 
+Sableye,302,Dark Ghost Dark Ghost,Darkness Pokémon,0.5 m (1′08″),11.0 kg (24.3 lbs) 161.0 kg (354.9 lbs),Keen Eye Stall Prankster Magic Bounce,068  123  070  102  124  294  068  123  070  102  124  294 
+Mawile,303,Steel Fairy Steel Fairy,Deceiver Pokémon,0.6 m (2′00″) 1.0 m (3′03″),11.5 kg (25.4 lbs) 23.5 kg (51.8 lbs),Hyper Cutter Intimidate Sheer Force Huge Power,069  063  071  125  295  069  063  071  125  295 
+Aron,304,Steel Rock,Iron Armor Pokémon,0.4 m (1′04″),60.0 kg (132.3 lbs),Sturdy Rock Head Heavy Metal,070  166  099  072 
+Lairon,305,Steel Rock,Iron Armor Pokémon,0.9 m (2′11″),120.0 kg (264.6 lbs),Sturdy Rock Head Heavy Metal,071  167  100  073 
+Aggron,306,Steel Rock Steel,Iron Armor Pokémon,2.1 m (6′11″) 2.2 m (7′03″),360.0 kg (793.7 lbs) 395.0 kg (870.8 lbs),Sturdy Rock Head Heavy Metal Filter,072  168  101  074  072  168  101  074 
+Meditite,307,Fighting Psychic,Meditate Pokémon,0.6 m (2′00″),11.2 kg (24.7 lbs),Pure Power Telepathy,076  086  086  143  078 
+Medicham,308,Fighting Psychic Fighting Psychic,Meditate Pokémon,1.3 m (4′03″),31.5 kg (69.4 lbs),Pure Power Telepathy Pure Power,077  087  087  144  079  077  087  087  144  079 
+Electrike,309,Electric,Lightning Pokémon,0.6 m (2′00″),15.2 kg (33.5 lbs),Static Lightning Rod Minus,078  073  080  293  066 
+Manectric,310,Electric,Discharge Pokémon,1.5 m (4′11″) 1.8 m (5′11″),40.2 kg (88.6 lbs) 44.0 kg (97.0 lbs),Static Lightning Rod Minus Intimidate,079  074  081  294  067  079  074  081  294  067 
+Plusle,311,Electric,Cheering Pokémon,0.4 m (1′04″),4.2 kg (9.3 lbs),Plus Lightning Rod,080  096  082 
+Minun,312,Electric,Cheering Pokémon,0.4 m (1′04″),4.2 kg (9.3 lbs),Minus Volt Absorb,081  097  083 
+Volbeat,313,Bug,Firefly Pokémon,0.7 m (2′04″),17.7 kg (39.0 lbs),Illuminate Swarm Prankster,086  133  089 
+Illumise,314,Bug,Firefly Pokémon,0.6 m (2′00″),17.7 kg (39.0 lbs),Oblivious Tinted Lens Prankster,087  134  090 
+Roselia,315,Grass Poison,Thorn Pokémon,0.3 m (1′00″),2.0 kg (4.4 lbs),Natural Cure Poison Point Leaf Guard,094  026  026  134  072  098  060 
+Gulpin,316,Poison,Stomach Pokémon,0.4 m (1′04″),10.3 kg (22.7 lbs),Liquid Ooze Sticky Hold Gluttony,095  098  100 
+Swalot,317,Poison,Poison Bag Pokémon,1.7 m (5′07″),80.0 kg (176.4 lbs),Liquid Ooze Sticky Hold Gluttony,096  099  101 
+Carvanha,318,Water Dark,Savage Pokémon,0.8 m (2′07″),20.8 kg (45.9 lbs),Rough Skin Speed Boost,097  055  102  264  345 
+Sharpedo,319,Water Dark Water Dark,Brutal Pokémon,1.8 m (5′11″) 2.5 m (8′02″),88.8 kg (195.8 lbs) 130.3 kg (287.3 lbs),Rough Skin Speed Boost Strong Jaw,098  056  103  265  346  098  056  103  265  346 
+Wailmer,320,Water,Ball Whale Pokémon,2.0 m (6′07″),130.0 kg (286.6 lbs),Water Veil Oblivious Pressure,099  240  027  104  266  351  356 
+Wailord,321,Water,Float Whale Pokémon,14.5 m (47′07″),398.0 kg (877.4 lbs),Water Veil Oblivious Pressure,100  241  028  105  267  352  357 
+Numel,322,Fire Ground,Numb Pokémon,0.7 m (2′04″),24.0 kg (52.9 lbs),Oblivious Simple Own Tempo,101  204  106 
+Camerupt,323,Fire Ground Fire Ground,Eruption Pokémon,1.9 m (6′03″) 2.5 m (8′02″),220.0 kg (485.0 lbs) 320.5 kg (706.6 lbs),Magma Armor Solid Rock Anger Point Sheer Force,102  205  107  102  205  107 
+Torkoal,324,Fire,Coal Pokémon,0.5 m (1′08″),80.4 kg (177.3 lbs),White Smoke Drought Shell Armor,105  096  110  223  287  300 
+Spoink,325,Psychic,Bounce Pokémon,0.7 m (2′04″),30.6 kg (67.5 lbs),Thick Fat Own Tempo Gluttony,110  206  007  115 
+Grumpig,326,Psychic,Manipulate Pokémon,0.9 m (2′11″),71.5 kg (157.6 lbs),Thick Fat Own Tempo Gluttony,111  207  008  116 
+Spinda,327,Normal,Spot Panda Pokémon,1.1 m (3′07″),5.0 kg (11.0 lbs),Own Tempo Tangled Feet Contrary,114  131  119  105  128 
+Trapinch,328,Ground,Ant Pit Pokémon,0.7 m (2′04″),15.0 kg (33.1 lbs),Hyper Cutter Arena Trap Sheer Force,116  121  003  121  235  304  321 
+Vibrava,329,Ground Dragon,Vibration Pokémon,1.1 m (3′07″),15.3 kg (33.7 lbs),Levitate,117  122  004  122  236  305  322 
+Flygon,330,Ground Dragon,Mystic Pokémon,2.0 m (6′07″),82.0 kg (180.8 lbs),Levitate,118  123  005  123  237  306  323 
+Cacnea,331,Grass,Cactus Pokémon,0.4 m (1′04″),51.3 kg (113.1 lbs),Sand Veil Water Absorb,119  124 
+Cacturne,332,Grass Dark,Scarecrow Pokémon,1.3 m (4′03″),77.4 kg (170.6 lbs),Sand Veil Water Absorb,120  125 
+Swablu,333,Normal Flying,Cotton Bird Pokémon,0.4 m (1′04″),1.2 kg (2.6 lbs),Natural Cure Cloud Nine,121  171  246  139  126 
+Altaria,334,Dragon Flying Dragon Fairy,Humming Pokémon,1.1 m (3′07″) 1.5 m (4′11″),20.6 kg (45.4 lbs),Natural Cure Cloud Nine Pixilate,122  172  247  140  127  122  172  247  140  127 
+Zangoose,335,Normal,Cat Ferret Pokémon,1.3 m (4′03″),40.3 kg (88.8 lbs),Immunity Toxic Boost,123  186  005  128 
+Seviper,336,Poison,Fang Snake Pokémon,2.7 m (8′10″),52.5 kg (115.7 lbs),Shed Skin Infiltrator,124  187  006  129 
+Lunatone,337,Rock Psychic,Meteorite Pokémon,1.0 m (3′03″),168.0 kg (370.4 lbs),Levitate,125  214  012  130  362 
+Solrock,338,Rock Psychic,Meteorite Pokémon,1.2 m (3′11″),154.0 kg (339.5 lbs),Levitate,126  215  013  131  363 
+Barboach,339,Water Ground,Whiskers Pokémon,0.4 m (1′04″),1.9 kg (4.2 lbs),Oblivious Anticipation Hydration,127  080  080  040  132  093  113  228 
+Whiscash,340,Water Ground,Whiskers Pokémon,0.9 m (2′11″),23.6 kg (52.0 lbs),Oblivious Anticipation Hydration,128  081  081  041  133  094  114  229 
+Corphish,341,Water,Ruffian Pokémon,0.6 m (2′00″),11.5 kg (25.4 lbs),Hyper Cutter Shell Armor Adaptability,129  279  051  134  357  102 
+Crawdaunt,342,Water Dark,Rogue Pokémon,1.1 m (3′07″),32.8 kg (72.3 lbs),Hyper Cutter Shell Armor Adaptability,130  280  052  135  358  103 
+Baltoy,343,Ground Psychic,Clay Doll Pokémon,0.5 m (1′08″),21.5 kg (47.4 lbs),Levitate,131  169  136  310  082 
+Claydol,344,Ground Psychic,Clay Doll Pokémon,1.5 m (4′11″),108.0 kg (238.1 lbs),Levitate,132  170  137  311  083 
+Lileep,345,Rock Grass,Sea Lily Pokémon,1.0 m (3′03″),23.8 kg (52.5 lbs),Suction Cups Storm Drain,133  138  231 
+Cradily,346,Rock Grass,Barnacle Pokémon,1.5 m (4′11″),60.4 kg (133.2 lbs),Suction Cups Storm Drain,134  139  232 
+Anorith,347,Rock Bug,Old Shrimp Pokémon,0.7 m (2′04″),12.5 kg (27.6 lbs),Battle Armor Swift Swim,135  140  233 
+Armaldo,348,Rock Bug,Plate Pokémon,1.5 m (4′11″),68.2 kg (150.4 lbs),Battle Armor Swift Swim,136  141  234 
+Feebas,349,Water,Fish Pokémon,0.6 m (2′00″),7.4 kg (16.3 lbs),Swift Swim Oblivious Adaptability,140  138  138  145  155  189  152 
+Milotic,350,Water,Tender Pokémon,6.2 m (20′04″),162.0 kg (357.1 lbs),Marvel Scale Competitive Cute Charm,141  139  139  146  156  190  153 
+Castform,351,Normal Fire Water Ice,Weather Pokémon,0.3 m (1′00″),0.8 kg (1.8 lbs),Forecast,142  163  147  181  220  142  163  147  181  220  142  163  147  181  220  142  163  147  181  220 
+Kecleon,352,Normal,Color Swap Pokémon,1.0 m (3′03″),22.0 kg (48.5 lbs),Color Change Protean,145  116  150  214 
+Shuppet,353,Ghost,Puppet Pokémon,0.6 m (2′00″),2.3 kg (5.1 lbs),Insomnia Frisk Cursed Body,146  210  122  151  316 
+Banette,354,Ghost,Marionette Pokémon,1.1 m (3′07″) 1.2 m (3′11″),12.5 kg (27.6 lbs) 13.0 kg (28.7 lbs),Insomnia Frisk Cursed Body Prankster,147  211  123  152  317  147  211  123  152  317 
+Duskull,355,Ghost,Requiem Pokémon,0.8 m (2′07″),15.0 kg (33.1 lbs),Levitate Frisk,148  189  153  135 
+Dusclops,356,Ghost,Beckon Pokémon,1.6 m (5′03″),30.6 kg (67.5 lbs),Pressure Frisk,149  190  154  136 
+Tropius,357,Grass Flying,Fruit Pokémon,2.0 m (6′07″),100.0 kg (220.5 lbs),Chlorophyll Solar Power Harvest,150  185  288  156  354 
+Chimecho,358,Psychic,Wind Chime Pokémon,0.6 m (2′00″),1.0 kg (2.2 lbs),Levitate,151  083  083  112  158 
+Absol,359,Dark,Disaster Pokémon,1.2 m (3′11″),47.0 kg (103.6 lbs) 49.0 kg (108.0 lbs),Pressure Super Luck Justified Magic Bounce,152  209  216  009  159  245  322  152  209  216  009  159  245  322 
+Wynaut,360,Psychic,Bright Pokémon,0.6 m (2′00″),14.0 kg (30.9 lbs),Shadow Tag Telepathy,160  118  167  216 
+Snorunt,361,Ice,Snow Hat Pokémon,0.7 m (2′04″),16.8 kg (37.0 lbs),Inner Focus Ice Body Moody,171  206  179  246  323  079 
+Glalie,362,Ice,Face Pokémon,1.5 m (4′11″) 2.1 m (6′11″),256.5 kg (565.5 lbs) 350.2 kg (772.1 lbs),Inner Focus Ice Body Moody Refrigerate,172  207  180  247  324  080  172  207  180  247  324  080 
+Spheal,363,Ice Water,Clap Pokémon,0.8 m (2′07″),39.5 kg (87.1 lbs),Thick Fat Ice Body Oblivious,173  243  182 
+Sealeo,364,Ice Water,Ball Roll Pokémon,1.1 m (3′07″),87.6 kg (193.1 lbs),Thick Fat Ice Body Oblivious,174  244  183 
+Walrein,365,Ice Water,Ice Break Pokémon,1.4 m (4′07″),150.6 kg (332.0 lbs),Thick Fat Ice Body Oblivious,175  245  184 
+Clamperl,366,Water,Bivalve Pokémon,0.4 m (1′04″),52.5 kg (115.7 lbs),Shell Armor Rattled,176  141  185  140 
+Huntail,367,Water,Deep Sea Pokémon,1.7 m (5′07″),27.0 kg (59.5 lbs),Swift Swim Water Veil,177  142  186  141 
+Gorebyss,368,Water,South Sea Pokémon,1.8 m (5′11″),22.6 kg (49.8 lbs),Swift Swim Hydration,178  143  187  142 
+Relicanth,369,Water Rock,Longevity Pokémon,1.0 m (3′03″),23.4 kg (51.6 lbs),Swift Swim Rock Head Sturdy,179  042  188  262  343 
+Luvdisc,370,Water,Rendezvous Pokémon,0.6 m (2′00″),8.7 kg (19.2 lbs),Swift Swim Hydration,183  029  192  111  134 
+Bagon,371,Dragon,Rock Head Pokémon,0.6 m (2′00″),42.1 kg (92.8 lbs),Rock Head Sheer Force,187  014  196  117  147 
+Shelgon,372,Dragon,Endurance Pokémon,1.1 m (3′07″),110.5 kg (243.6 lbs),Rock Head Overcoat,188  015  197  118  148 
+Salamence,373,Dragon Flying Dragon Flying,Dragon Pokémon,1.5 m (4′11″) 1.8 m (5′11″),102.6 kg (226.2 lbs) 112.6 kg (248.2 lbs),Intimidate Moxie Aerilate,189  016  198  119  149  189  016  198  119  149 
+Beldum,374,Steel Psychic,Iron Ball Pokémon,0.6 m (2′00″),95.2 kg (209.9 lbs),Clear Body Light Metal,190  262  199  214  278 
+Metang,375,Steel Psychic,Iron Claw Pokémon,1.2 m (3′11″),202.5 kg (446.4 lbs),Clear Body Light Metal,191  263  200  215  279 
+Metagross,376,Steel Psychic Steel Psychic,Iron Leg Pokémon,1.6 m (5′03″) 2.5 m (8′02″),550.0 kg (1212.5 lbs) 942.9 kg (2078.7 lbs),Clear Body Light Metal Tough Claws,192  264  201  216  280  192  264  201  216  280 
+Regirock,377,Rock,Rock Peak Pokémon,1.7 m (5′07″),230.0 kg (507.1 lbs),Clear Body Sturdy,193  202 
+Regice,378,Ice,Iceberg Pokémon,1.8 m (5′11″),175.0 kg (385.8 lbs),Clear Body Ice Body,194  203 
+Registeel,379,Steel,Iron Pokémon,1.9 m (6′03″),205.0 kg (451.9 lbs),Clear Body Light Metal,195  204 
+Latias,380,Dragon Psychic Dragon Psychic,Eon Pokémon,1.4 m (4′07″) 1.8 m (5′11″),40.0 kg (88.2 lbs) 52.0 kg (114.6 lbs),Levitate,196  205  196  205 
+Latios,381,Dragon Psychic Dragon Psychic,Eon Pokémon,2.0 m (6′07″) 2.3 m (7′07″),60.0 kg (132.3 lbs) 70.0 kg (154.3 lbs),Levitate,197  206  197  206 
+Kyogre,382,Water,Sea Basin Pokémon,4.5 m (14′09″) 9.8 m (32′02″),352.0 kg (776.0 lbs) 430.0 kg (948.0 lbs),Drizzle Primordial Sea,198  207  198  207 
+Groudon,383,Ground,Continent Pokémon,3.5 m (11′06″) 5.0 m (16′05″),950.0 kg (2094.4 lbs) 999.7 kg (2204.0 lbs),Drought Desolate Land,199  208  199  208 
+Rayquaza,384,Dragon Flying Dragon Flying,Sky High Pokémon,7.0 m (23′00″) 10.8 m (35′05″),206.5 kg (455.3 lbs) 392.0 kg (864.2 lbs),Air Lock Delta Stream,200  209  200  209 
+Jirachi,385,Steel Psychic,Wish Pokémon,0.3 m (1′00″),1.1 kg (2.4 lbs),Serene Grace,201  210 
+Deoxys,386,Psychic,DNA Pokémon,1.7 m (5′07″),60.8 kg (134.0 lbs),Pressure,202  211  202  211  202  211  202  211 
+Turtwig,387,Grass,Tiny Leaf Pokémon,0.4 m (1′04″),10.2 kg (22.5 lbs),Overgrow Shell Armor,001 
+Grotle,388,Grass,Grove Pokémon,1.1 m (3′07″),97.0 kg (213.8 lbs),Overgrow Shell Armor,002 
+Torterra,389,Grass Ground,Continent Pokémon,2.2 m (7′03″),310.0 kg (683.4 lbs),Overgrow Shell Armor,003 
+Chimchar,390,Fire,Chimp Pokémon,0.5 m (1′08″),6.2 kg (13.7 lbs),Blaze Iron Fist,004 
+Monferno,391,Fire Fighting,Playful Pokémon,0.9 m (2′11″),22.0 kg (48.5 lbs),Blaze Iron Fist,005 
+Infernape,392,Fire Fighting,Flame Pokémon,1.2 m (3′11″),55.0 kg (121.3 lbs),Blaze Iron Fist,006 
+Piplup,393,Water,Penguin Pokémon,0.4 m (1′04″),5.2 kg (11.5 lbs),Torrent Defiant,007 
+Prinplup,394,Water,Penguin Pokémon,0.8 m (2′07″),23.0 kg (50.7 lbs),Torrent Defiant,008 
+Empoleon,395,Water Steel,Emperor Pokémon,1.7 m (5′07″),84.5 kg (186.3 lbs),Torrent Defiant,009 
+Starly,396,Normal Flying,Starling Pokémon,0.3 m (1′00″),2.0 kg (4.4 lbs),Keen Eye Reckless,010 
+Staravia,397,Normal Flying,Starling Pokémon,0.6 m (2′00″),15.5 kg (34.2 lbs),Intimidate Reckless,011 
+Staraptor,398,Normal Flying,Predator Pokémon,1.2 m (3′11″),24.9 kg (54.9 lbs),Intimidate Reckless,012 
+Bidoof,399,Normal,Plump Mouse Pokémon,0.5 m (1′08″),20.0 kg (44.1 lbs),Simple Unaware Moody,013 
+Bibarel,400,Normal Water,Beaver Pokémon,1.0 m (3′03″),31.5 kg (69.4 lbs),Simple Unaware Moody,014 
+Kricketot,401,Bug,Cricket Pokémon,0.3 m (1′00″),2.2 kg (4.9 lbs),Shed Skin Run Away,015 
+Kricketune,402,Bug,Cricket Pokémon,1.0 m (3′03″),25.5 kg (56.2 lbs),Swarm Technician,016 
+Shinx,403,Electric,Flash Pokémon,0.5 m (1′08″),9.5 kg (20.9 lbs),Rivalry Intimidate Guts,017 
+Luxio,404,Electric,Spark Pokémon,0.9 m (2′11″),30.5 kg (67.2 lbs),Rivalry Intimidate Guts,018 
+Luxray,405,Electric,Gleam Eyes Pokémon,1.4 m (4′07″),42.0 kg (92.6 lbs),Rivalry Intimidate Guts,019 
+Budew,406,Grass Poison,Bud Pokémon,0.2 m (0′08″),1.2 kg (2.6 lbs),Natural Cure Poison Point Leaf Guard,025 
+Roserade,407,Grass Poison,Bouquet Pokémon,0.9 m (2′11″),14.5 kg (32.0 lbs),Natural Cure Poison Point Technician,027 
+Cranidos,408,Rock,Head Butt Pokémon,0.9 m (2′11″),31.5 kg (69.4 lbs),Mold Breaker Sheer Force,036 
+Rampardos,409,Rock,Head Butt Pokémon,1.6 m (5′03″),102.5 kg (226.0 lbs),Mold Breaker Sheer Force,037 
+Shieldon,410,Rock Steel,Shield Pokémon,0.5 m (1′08″),57.0 kg (125.7 lbs),Sturdy Soundproof,038 
+Bastiodon,411,Rock Steel,Shield Pokémon,1.3 m (4′03″),149.5 kg (329.6 lbs),Sturdy Soundproof,039 
+Burmy,412,Bug,Bagworm Pokémon,0.2 m (0′08″),3.4 kg (7.5 lbs),Shed Skin Overcoat,045 
+Wormadam,413,Bug Grass Bug Ground Bug Steel,Bagworm Pokémon,0.5 m (1′08″),6.5 kg (14.3 lbs),Anticipation Overcoat Anticipation Overcoat Anticipation Overcoat,046 
+Mothim,414,Bug Flying,Moth Pokémon,0.9 m (2′11″),23.3 kg (51.4 lbs),Swarm Tinted Lens,047 
+Combee,415,Bug Flying,Tiny Bee Pokémon,0.3 m (1′00″),5.5 kg (12.1 lbs),Honey Gather Hustle,053 
+Vespiquen,416,Bug Flying,Beehive Pokémon,1.2 m (3′11″),38.5 kg (84.9 lbs),Pressure Unnerve,054 
+Pachirisu,417,Electric,EleSquirrel Pokémon,0.4 m (1′04″),3.9 kg (8.6 lbs),Run Away Pickup Volt Absorb,055 
+Buizel,418,Water,Sea Weasel Pokémon,0.7 m (2′04″),29.5 kg (65.0 lbs),Swift Swim Water Veil,056 
+Floatzel,419,Water,Sea Weasel Pokémon,1.1 m (3′07″),33.5 kg (73.9 lbs),Swift Swim Water Veil,057 
+Cherubi,420,Grass,Cherry Pokémon,0.4 m (1′04″),3.3 kg (7.3 lbs),Chlorophyll,058 
+Cherrim,421,Grass,Blossom Pokémon,0.5 m (1′08″),9.3 kg (20.5 lbs),Flower Gift,059 
+Shellos,422,Water,Sea Slug Pokémon,0.3 m (1′00″),6.3 kg (13.9 lbs),Sticky Hold Storm Drain Sand Force,060 
+Gastrodon,423,Water Ground,Sea Slug Pokémon,0.9 m (2′11″),29.9 kg (65.9 lbs),Sticky Hold Storm Drain Sand Force,061 
+Ambipom,424,Normal,Long Tail Pokémon,1.2 m (3′11″),20.3 kg (44.8 lbs),Technician Pickup Skill Link,064 
+Drifloon,425,Ghost Flying,Balloon Pokémon,0.4 m (1′04″),1.2 kg (2.6 lbs),Aftermath Unburden Flare Boost,065 
+Drifblim,426,Ghost Flying,Blimp Pokémon,1.2 m (3′11″),15.0 kg (33.1 lbs),Aftermath Unburden Flare Boost,066 
+Buneary,427,Normal,Rabbit Pokémon,0.4 m (1′04″),5.5 kg (12.1 lbs),Run Away Klutz Limber,067 
+Lopunny,428,Normal,Rabbit Pokémon,1.2 m (3′11″) 1.3 m (4′03″),33.3 kg (73.4 lbs) 28.3 kg (62.4 lbs),Cute Charm Klutz Limber Scrappy,068 
+Mismagius,429,Ghost,Magical Pokémon,0.9 m (2′11″),4.4 kg (9.7 lbs),Levitate,073 
+Honchkrow,430,Dark Flying,Big Boss Pokémon,0.9 m (2′11″),27.3 kg (60.2 lbs),Insomnia Super Luck Moxie,075 
+Glameow,431,Normal,Catty Pokémon,0.5 m (1′08″),3.9 kg (8.6 lbs),Limber Own Tempo Keen Eye,076 
+Purugly,432,Normal,Tiger Cat Pokémon,1.0 m (3′03″),43.8 kg (96.6 lbs),Thick Fat Own Tempo Defiant,077 
+Chingling,433,Psychic,Bell Pokémon,0.2 m (0′08″),0.6 kg (1.3 lbs),Levitate,082 
+Stunky,434,Poison Dark,Skunk Pokémon,0.4 m (1′04″),19.2 kg (42.3 lbs),Stench Aftermath Keen Eye,084 
+Skuntank,435,Poison Dark,Skunk Pokémon,1.0 m (3′03″),38.0 kg (83.8 lbs),Stench Aftermath Keen Eye,085 
+Bronzor,436,Steel Psychic,Bronze Pokémon,0.5 m (1′08″),60.5 kg (133.4 lbs),Levitate Heatproof Heavy Metal,088 
+Bronzong,437,Steel Psychic,Bronze Bell Pokémon,1.3 m (4′03″),187.0 kg (412.3 lbs),Levitate Heatproof Heavy Metal,089 
+Bonsly,438,Rock,Bonsai Pokémon,0.5 m (1′08″),15.0 kg (33.1 lbs),Sturdy Rock Head Rattled,092 
+Mime Jr.,439,Psychic Fairy,Mime Pokémon,0.6 m (2′00″),13.0 kg (28.7 lbs),Soundproof Filter Technician,094 
+Happiny,440,Normal,Playhouse Pokémon,0.6 m (2′00″),24.4 kg (53.8 lbs),Natural Cure Serene Grace Friend Guard,096 
+Chatot,441,Normal Flying,Music Note Pokémon,0.5 m (1′08″),1.9 kg (4.2 lbs),Keen Eye Tangled Feet Big Pecks,102 
+Spiritomb,442,Ghost Dark,Forbidden Pokémon,1.0 m (3′03″),108.0 kg (238.1 lbs),Pressure Infiltrator,108 
+Gible,443,Dragon Ground,Land Shark Pokémon,0.7 m (2′04″),20.5 kg (45.2 lbs),Sand Veil Rough Skin,109 
+Gabite,444,Dragon Ground,Cave Pokémon,1.4 m (4′07″),56.0 kg (123.5 lbs),Sand Veil Rough Skin,110 
+Garchomp,445,Dragon Ground Dragon Ground,Mach Pokémon,1.9 m (6′03″),95.0 kg (209.4 lbs),Sand Veil Rough Skin Sand Force,111 
+Munchlax,446,Normal,Big Eater Pokémon,0.6 m (2′00″),105.0 kg (231.5 lbs),Pickup Thick Fat Gluttony,112 
+Riolu,447,Fighting,Emanation Pokémon,0.7 m (2′04″),20.2 kg (44.5 lbs),Steadfast Inner Focus Prankster,115 
+Lucario,448,Fighting Steel Fighting Steel,Aura Pokémon,1.2 m (3′11″) 1.3 m (4′03″),54.0 kg (119.0 lbs) 57.5 kg (126.8 lbs),Steadfast Inner Focus Justified Adaptability,116 
+Hippopotas,449,Ground,Hippo Pokémon,0.8 m (2′07″),49.5 kg (109.1 lbs),Sand Stream Sand Force,122 
+Hippowdon,450,Ground,Heavyweight Pokémon,2.0 m (6′07″),300.0 kg (661.4 lbs),Sand Stream Sand Force,123 
+Skorupi,451,Poison Bug,Scorpion Pokémon,0.8 m (2′07″),12.0 kg (26.5 lbs),Battle Armor Sniper Keen Eye,127 
+Drapion,452,Poison Dark,Ogre Scorp Pokémon,1.3 m (4′03″),61.5 kg (135.6 lbs),Battle Armor Sniper Keen Eye,128 
+Croagunk,453,Poison Fighting,Toxic Mouth Pokémon,0.7 m (2′04″),23.0 kg (50.7 lbs),Anticipation Dry Skin Poison Touch,129 
+Toxicroak,454,Poison Fighting,Toxic Mouth Pokémon,1.3 m (4′03″),44.4 kg (97.9 lbs),Anticipation Dry Skin Poison Touch,130 
+Carnivine,455,Grass,Bug Catcher Pokémon,1.4 m (4′07″),27.0 kg (59.5 lbs),Levitate,131 
+Finneon,456,Water,Wing Fish Pokémon,0.4 m (1′04″),7.0 kg (15.4 lbs),Swift Swim Storm Drain Water Veil,134 
+Lumineon,457,Water,Neon Pokémon,1.2 m (3′11″),24.0 kg (52.9 lbs),Swift Swim Storm Drain Water Veil,135 
+Mantyke,458,Water Flying,Kite Pokémon,1.0 m (3′03″),65.0 kg (143.3 lbs),Swift Swim Water Absorb Water Veil,140 
+Snover,459,Grass Ice,Frost Tree Pokémon,1.0 m (3′03″),50.5 kg (111.3 lbs),Snow Warning Soundproof,142 
+Abomasnow,460,Grass Ice Grass Ice,Frost Tree Pokémon,2.2 m (7′03″) 2.7 m (8′10″),135.5 kg (298.7 lbs) 185.0 kg (407.9 lbs),Snow Warning Soundproof Snow Warning,143 
+Weavile,461,Dark Ice,Sharp Claw Pokémon,1.1 m (3′07″),34.0 kg (75.0 lbs),Pressure Pickpocket,145 
+Magnezone,462,Electric Steel,Magnet Area Pokémon,1.2 m (3′11″),180.0 kg (396.8 lbs),Magnet Pull Sturdy Analytic,180  050  071  086  049  056 
+Lickilicky,463,Normal,Licking Pokémon,1.7 m (5′07″),140.0 kg (308.6 lbs),Own Tempo Oblivious Cloud Nine,162  181  285  135  376 
+Rhyperior,464,Ground Rock,Drill Pokémon,2.4 m (7′10″),282.8 kg (623.5 lbs),Lightning Rod Solid Rock Reckless,188  052  178  266 
+Tangrowth,465,Grass,Vine Pokémon,2.0 m (6′07″),128.6 kg (283.5 lbs),Chlorophyll Leaf Guard Regenerator,182  183  218 
+Electivire,466,Electric,Thunderbolt Pokémon,1.8 m (5′11″),138.6 kg (305.6 lbs),Motor Drive Vital Spirit,199  058  228  297 
+Magmortar,467,Fire,Blast Pokémon,1.6 m (5′03″),68.0 kg (149.9 lbs),Flame Body Vital Spirit,202  055  168  202 
+Togekiss,468,Fairy Flying,Jubilee Pokémon,1.5 m (4′11″),38.0 kg (83.8 lbs),Hustle Serene Grace Super Luck,175  259 
+Yanmega,469,Bug Flying,Ogre Darner Pokémon,1.9 m (6′03″),51.5 kg (113.5 lbs),Speed Boost Tinted Lens Frisk,184  102  287  088 
+Leafeon,470,Grass,Verdant Pokémon,1.0 m (3′03″),25.5 kg (56.2 lbs),Leaf Guard Chlorophyll,169  097  083  129  159  202 
+Glaceon,471,Ice,Fresh Snow Pokémon,0.8 m (2′07″),25.9 kg (57.1 lbs),Snow Cloak Ice Body,170  098  084  130  160  203 
+Gliscor,472,Ground Flying,Fang Scorp Pokémon,2.0 m (6′07″),42.5 kg (93.7 lbs),Hyper Cutter Sand Veil Poison Heal,154  222  116 
+Mamoswine,473,Ice Ground,Twin Tusk Pokémon,2.5 m (8′02″),291.0 kg (641.5 lbs),Oblivious Snow Cloak Thick Fat,205  197  260  078  077 
+Porygon-Z,474,Normal,Virtual Pokémon,0.9 m (2′11″),34.0 kg (75.0 lbs),Adaptability Download Analytic,194  219  283 
+Gallade,475,Psychic Fighting Psychic Fighting,Blade Pokémon,1.6 m (5′03″),52.0 kg (114.6 lbs) 56.4 kg (124.3 lbs),Steadfast Justified Inner Focus,160  067  032  123  160  067  032  123 
+Probopass,476,Rock Steel,Compass Pokémon,1.4 m (4′07″),340.0 kg (749.6 lbs),Sturdy Magnet Pull Sand Force,156  165  094  062  199  255 
+Dusknoir,477,Ghost,Gripper Pokémon,2.2 m (7′03″),106.6 kg (235.0 lbs),Pressure Frisk,191  155  137 
+Froslass,478,Ice Ghost,Snow Land Pokémon,1.3 m (4′03″),26.6 kg (58.6 lbs),Snow Cloak Cursed Body,208  181  248  325  081 
+Rotom,479,Electric Ghost Electric Fire Electric Water Electric Ice Electric Flying Electric Grass,Plasma Pokémon,0.3 m (1′00″),0.3 kg (0.7 lbs),Levitate,152  068  372  152  068  372  152  068  372  152  068  372  152  068  372  152  068  372 
+Uxie,480,Psychic,Knowledge Pokémon,0.3 m (1′00″),0.3 kg (0.7 lbs),Levitate,146 
+Mesprit,481,Psychic,Emotion Pokémon,0.3 m (1′00″),0.3 kg (0.7 lbs),Levitate,147 
+Azelf,482,Psychic,Willpower Pokémon,0.3 m (1′00″),0.3 kg (0.7 lbs),Levitate,148 
+Dialga,483,Steel Dragon,Temporal Pokémon,5.4 m (17′09″),683.0 kg (1505.8 lbs),Pressure Telepathy,149 
+Palkia,484,Water Dragon,Spatial Pokémon,4.2 m (13′09″),336.0 kg (740.8 lbs),Pressure Telepathy,150 
+Heatran,485,Fire Steel,Lava Dome Pokémon,1.7 m (5′07″),430.0 kg (948.0 lbs),Flash Fire Flame Body,—
+Regigigas,486,Normal,Colossal Pokémon,3.7 m (12′02″),420.0 kg (925.9 lbs),Slow Start,—
+Giratina,487,Ghost Dragon Ghost Dragon,Renegade Pokémon,4.5 m (14′09″) 6.9 m (22′08″),750.0 kg (1653.5 lbs) 650.0 kg (1433.0 lbs),Pressure Telepathy Levitate,210 
+Cresselia,488,Psychic,Lunar Pokémon,1.5 m (4′11″),85.6 kg (188.7 lbs),Levitate,—
+Phione,489,Water,Sea Drifter Pokémon,0.4 m (1′04″),3.1 kg (6.8 lbs),Hydration,—
+Manaphy,490,Water,Seafaring Pokémon,0.3 m (1′00″),1.4 kg (3.1 lbs),Hydration,151 
+Darkrai,491,Dark,Pitch-Black Pokémon,1.5 m (4′11″),50.5 kg (111.3 lbs),Bad Dreams,—
+Shaymin,492,Grass,Gratitude Pokémon,0.2 m (0′08″) 0.4 m (1′04″),2.1 kg (4.6 lbs) 5.2 kg (11.5 lbs),Natural Cure Serene Grace,—
+Arceus,493,Normal,Alpha Pokémon,3.2 m (10′06″),320.0 kg (705.5 lbs),Multitype,—
+Victini,494,Psychic Fire,Victory Pokémon,0.4 m (1′04″),4.0 kg (8.8 lbs),Victory Star,000 
+Snivy,495,Grass,Grass Snake Pokémon,0.6 m (2′00″),8.1 kg (17.9 lbs),Overgrow Contrary,001 
+Servine,496,Grass,Grass Snake Pokémon,0.8 m (2′07″),16.0 kg (35.3 lbs),Overgrow Contrary,002 
+Serperior,497,Grass,Regal Pokémon,3.3 m (10′10″),63.0 kg (138.9 lbs),Overgrow Contrary,003 
+Tepig,498,Fire,Fire Pig Pokémon,0.5 m (1′08″),9.9 kg (21.8 lbs),Blaze Thick Fat,004 
+Pignite,499,Fire Fighting,Fire Pig Pokémon,1.0 m (3′03″),55.5 kg (122.4 lbs),Blaze Thick Fat,005 
+Emboar,500,Fire Fighting,Mega Fire Pig Pokémon,1.6 m (5′03″),150.0 kg (330.7 lbs),Blaze Reckless,006 
+Oshawott,501,Water,Sea Otter Pokémon,0.5 m (1′08″),5.9 kg (13.0 lbs),Torrent Shell Armor,007 
+Dewott,502,Water,Discipline Pokémon,0.8 m (2′07″),24.5 kg (54.0 lbs),Torrent Shell Armor,008 
+Samurott,503,Water,Formidable Pokémon,1.5 m (4′11″),94.6 kg (208.6 lbs),Torrent Shell Armor,009 
+Patrat,504,Normal,Scout Pokémon,0.5 m (1′08″),11.6 kg (25.6 lbs),Run Away Keen Eye Analytic,010 
+Watchog,505,Normal,Lookout Pokémon,1.1 m (3′07″),27.0 kg (59.5 lbs),Illuminate Keen Eye Analytic,011 
+Lillipup,506,Normal,Puppy Pokémon,0.4 m (1′04″),4.1 kg (9.0 lbs),Vital Spirit Pickup Run Away,012  022  120  150 
+Herdier,507,Normal,Loyal Dog Pokémon,0.9 m (2′11″),14.7 kg (32.4 lbs),Intimidate Sand Rush Scrappy,013  023  121  151 
+Stoutland,508,Normal,Big-Hearted Pokémon,1.2 m (3′11″),61.0 kg (134.5 lbs),Intimidate Sand Rush Scrappy,014  024  122  152 
+Purrloin,509,Dark,Devious Pokémon,0.4 m (1′04″),10.1 kg (22.3 lbs),Limber Unburden Prankster,015  012  042  044 
+Liepard,510,Dark,Cruel Pokémon,1.1 m (3′07″),37.5 kg (82.7 lbs),Limber Unburden Prankster,016  013  043  045 
+Pansage,511,Grass,Grass Monkey Pokémon,0.6 m (2′00″),10.5 kg (23.1 lbs),Gluttony Overgrow,017  037  029 
+Simisage,512,Grass,Thorn Monkey Pokémon,1.1 m (3′07″),30.5 kg (67.2 lbs),Gluttony Overgrow,018  038  030 
+Pansear,513,Fire,High Temp Pokémon,0.6 m (2′00″),11.0 kg (24.3 lbs),Gluttony Blaze,019  039  031 
+Simisear,514,Fire,Ember Pokémon,1.0 m (3′03″),28.0 kg (61.7 lbs),Gluttony Blaze,020  040  032 
+Panpour,515,Water,Spray Pokémon,0.6 m (2′00″),13.5 kg (29.8 lbs),Gluttony Torrent,021  041  033 
+Simipour,516,Water,Geyser Pokémon,1.0 m (3′03″),29.0 kg (63.9 lbs),Gluttony Torrent,022  042  034 
+Munna,517,Psychic,Dream Eater Pokémon,0.6 m (2′00″),23.3 kg (51.4 lbs),Forewarn Synchronize Telepathy,023  086  090 
+Musharna,518,Psychic,Drowsing Pokémon,1.1 m (3′07″),60.5 kg (133.4 lbs),Forewarn Synchronize Telepathy,024  087  091 
+Pidove,519,Normal Flying,Tiny Pigeon Pokémon,0.3 m (1′00″),2.1 kg (4.6 lbs),Big Pecks Super Luck Rivalry,025  014  026 
+Tranquill,520,Normal Flying,Wild Pigeon Pokémon,0.6 m (2′00″),15.0 kg (33.1 lbs),Big Pecks Super Luck Rivalry,026  015  027 
+Unfezant,521,Normal Flying,Proud Pokémon,1.2 m (3′11″),29.0 kg (63.9 lbs),Big Pecks Super Luck Rivalry,027  016  028 
+Blitzle,522,Electric,Electrified Pokémon,0.8 m (2′07″),29.8 kg (65.7 lbs),Lightning Rod Motor Drive Sap Sipper,028  147 
+Zebstrika,523,Electric,Thunderbolt Pokémon,1.6 m (5′03″),79.5 kg (175.3 lbs),Lightning Rod Motor Drive Sap Sipper,029  148 
+Roggenrola,524,Rock,Mantle Pokémon,0.4 m (1′04″),18.0 kg (39.7 lbs),Sturdy Weak Armor Sand Force,030  068  120  098  120  168 
+Boldore,525,Rock,Ore Pokémon,0.9 m (2′11″),102.0 kg (224.9 lbs),Sturdy Weak Armor Sand Force,031  069  121  099  121  169 
+Gigalith,526,Rock,Compressed Pokémon,1.7 m (5′07″),260.0 kg (573.2 lbs),Sturdy Sand Stream Sand Force,032  070  122  100  122  170 
+Woobat,527,Psychic Flying,Bat Pokémon,0.4 m (1′04″),2.1 kg (4.6 lbs),Unaware Klutz Simple,033  066  055  174 
+Swoobat,528,Psychic Flying,Courting Pokémon,0.9 m (2′11″),10.5 kg (23.1 lbs),Unaware Klutz Simple,034  067  056  175 
+Drilbur,529,Ground,Mole Pokémon,0.3 m (1′00″),8.5 kg (18.7 lbs),Sand Rush Sand Force Mold Breaker,035  076  166 
+Excadrill,530,Ground Steel,Subterrene Pokémon,0.7 m (2′04″),40.4 kg (89.1 lbs),Sand Rush Sand Force Mold Breaker,036  077  167 
+Audino,531,Normal,Hearing Pokémon,1.1 m (3′07″) 1.5 m (4′11″),31.0 kg (68.3 lbs) 32.0 kg (70.5 lbs),Healer Regenerator Klutz Healer,037  036  123  037  036  123 
+Timburr,532,Fighting,Muscular Pokémon,0.6 m (2′00″),12.5 kg (27.6 lbs),Guts Sheer Force Iron Fist,038  073  093  171 
+Gurdurr,533,Fighting,Muscular Pokémon,1.2 m (3′11″),40.0 kg (88.2 lbs),Guts Sheer Force Iron Fist,039  074  094  172 
+Conkeldurr,534,Fighting,Muscular Pokémon,1.4 m (4′07″),87.0 kg (191.8 lbs),Guts Sheer Force Iron Fist,040  075  095  173 
+Tympole,535,Water,Tadpole Pokémon,0.5 m (1′08″),4.5 kg (9.9 lbs),Swift Swim Hydration Water Absorb,041  228  132 
+Palpitoad,536,Water Ground,Vibration Pokémon,0.8 m (2′07″),17.0 kg (37.5 lbs),Swift Swim Hydration Water Absorb,042  229  133 
+Seismitoad,537,Water Ground,Vibration Pokémon,1.5 m (4′11″),62.0 kg (136.7 lbs),Swift Swim Poison Touch Water Absorb,043  230  134 
+Throh,538,Fighting,Judo Pokémon,1.3 m (4′03″),55.5 kg (122.4 lbs),Guts Inner Focus Mold Breaker,044  267  097  248 
+Sawk,539,Fighting,Karate Pokémon,1.4 m (4′07″),51.0 kg (112.4 lbs),Sturdy Inner Focus Mold Breaker,045  268  098  249 
+Sewaddle,540,Bug Grass,Sewing Pokémon,0.3 m (1′00″),2.5 kg (5.5 lbs),Swarm Chlorophyll Overcoat,046  017 
+Swadloon,541,Bug Grass,Leaf-Wrapped Pokémon,0.5 m (1′08″),7.3 kg (16.1 lbs),Leaf Guard Chlorophyll Overcoat,047  018 
+Leavanny,542,Bug Grass,Nurturing Pokémon,1.2 m (3′11″),20.5 kg (45.2 lbs),Swarm Chlorophyll Overcoat,048  019 
+Venipede,543,Bug Poison,Centipede Pokémon,0.4 m (1′04″),5.3 kg (11.7 lbs),Poison Point Swarm Speed Boost,049  043  120 
+Whirlipede,544,Bug Poison,Curlipede Pokémon,1.2 m (3′11″),58.5 kg (129.0 lbs),Poison Point Swarm Speed Boost,050  044  121 
+Scolipede,545,Bug Poison,Megapede Pokémon,2.5 m (8′02″),200.5 kg (442.0 lbs),Poison Point Swarm Speed Boost,051  045  122 
+Cottonee,546,Grass Fairy,Cotton Puff Pokémon,0.3 m (1′00″),0.6 kg (1.3 lbs),Prankster Infiltrator Chlorophyll,052  082  087  105  262 
+Whimsicott,547,Grass Fairy,Windveiled Pokémon,0.7 m (2′04″),6.6 kg (14.6 lbs),Prankster Infiltrator Chlorophyll,053  083  088  106  263 
+Petilil,548,Grass,Bulb Pokémon,0.5 m (1′08″),6.6 kg (14.6 lbs),Chlorophyll Own Tempo Leaf Guard,054  084  085  103 
+Lilligant,549,Grass,Flowering Pokémon,1.1 m (3′07″),16.3 kg (35.9 lbs),Chlorophyll Own Tempo Leaf Guard,055  085  086  104 
+Basculin,550,Water,Hostile Pokémon,1.0 m (3′03″),18.0 kg (39.7 lbs),Reckless Adaptability Mold Breaker Rock Head Adaptability Mold Breaker,056  104  060  188  154  056  104  060  188  154 
+Sandile,551,Ground Dark,Desert Croc Pokémon,0.7 m (2′04″),15.2 kg (33.5 lbs),Intimidate Moxie Anger Point,057  099  043  232  301 
+Krokorok,552,Ground Dark,Desert Croc Pokémon,1.0 m (3′03″),33.4 kg (73.6 lbs),Intimidate Moxie Anger Point,058  100  044  233  302 
+Krookodile,553,Ground Dark,Intimidation Pokémon,1.5 m (4′11″),96.3 kg (212.3 lbs),Intimidate Moxie Anger Point,059  101  045  234  303 
+Darumaka,554,Fire Ice,Zen Charm Pokémon,0.6 m (2′00″) 0.7 m (2′04″),37.5 kg (82.7 lbs) 40.0 kg (88.2 lbs),Hustle Inner Focus Hustle Inner Focus,060  102  367  060  102  367 
+Darmanitan,555,Fire,Blazing Pokémon,1.3 m (4′03″),92.9 kg (204.8 lbs),Sheer Force Zen Mode Zen Mode Gorilla Tactics Zen Mode,061  103  368  061  103  368  061  103  368  061  103  368 
+Maractus,556,Grass,Cactus Pokémon,1.0 m (3′03″),28.0 kg (61.7 lbs),Water Absorb Chlorophyll Storm Drain,062  119  296 
+Dwebble,557,Bug Rock,Rock Inn Pokémon,0.3 m (1′00″),14.5 kg (32.0 lbs),Sturdy Shell Armor Weak Armor,063  115  023  086 
+Crustle,558,Bug Rock,Stone Home Pokémon,1.4 m (4′07″),200.0 kg (440.9 lbs),Sturdy Shell Armor Weak Armor,064  116  024  087 
+Scraggy,559,Dark Fighting,Shedding Pokémon,0.6 m (2′00″),11.8 kg (26.0 lbs),Shed Skin Moxie Intimidate,065  117  100  335  224 
+Scrafty,560,Dark Fighting,Hoodlum Pokémon,1.1 m (3′07″),30.0 kg (66.1 lbs),Shed Skin Moxie Intimidate,066  118  101  336  225 
+Sigilyph,561,Psychic Flying,Avianoid Pokémon,1.4 m (4′07″),14.0 kg (30.9 lbs),Wonder Skin Magic Guard Tinted Lens,067  120  090  297 
+Yamask,562,Ghost Ground Ghost,Spirit Pokémon,0.5 m (1′08″),1.5 kg (3.3 lbs),Mummy Wandering Spirit,068  124  327  068  124  327 
+Cofagrigus,563,Ghost,Coffin Pokémon,1.7 m (5′07″),76.5 kg (168.7 lbs),Mummy,069  125  329 
+Tirtouga,564,Water Rock,Prototurtle Pokémon,0.7 m (2′04″),16.5 kg (36.4 lbs),Solid Rock Sturdy Swift Swim,070  126  194  241 
+Carracosta,565,Water Rock,Prototurtle Pokémon,1.2 m (3′11″),81.0 kg (178.6 lbs),Solid Rock Sturdy Swift Swim,071  127  195  242 
+Archen,566,Rock Flying,First Bird Pokémon,0.5 m (1′08″),9.5 kg (20.9 lbs),Defeatist,072  128  192  239 
+Archeops,567,Rock Flying,First Bird Pokémon,1.4 m (4′07″),32.0 kg (70.5 lbs),Defeatist,073  129  193  240 
+Trubbish,568,Poison,Trash Bag Pokémon,0.6 m (2′00″),31.0 kg (68.3 lbs),Stench Sticky Hold Aftermath,074  105  074  206  264  157 
+Garbodor,569,Poison,Trash Heap Pokémon,1.9 m (6′03″),107.3 kg (236.6 lbs),Stench Weak Armor Aftermath,075  106  075  207  265  158 
+Zorua,570,Dark,Tricky Fox Pokémon,0.7 m (2′04″),12.5 kg (27.6 lbs),Illusion,076  151  124  028 
+Zoroark,571,Dark,Illusion Fox Pokémon,1.6 m (5′03″),81.1 kg (178.8 lbs),Illusion,077  152  125  029 
+Minccino,572,Normal,Chinchilla Pokémon,0.4 m (1′04″),5.8 kg (12.8 lbs),Cute Charm Technician Skill Link,078  107  266  050 
+Cinccino,573,Normal,Scarf Pokémon,0.5 m (1′08″),7.5 kg (16.5 lbs),Cute Charm Technician Skill Link,079  108  267  051 
+Gothita,574,Psychic,Fixation Pokémon,0.4 m (1′04″),5.8 kg (12.8 lbs),Frisk Competitive Shadow Tag,080  136  126  267 
+Gothorita,575,Psychic,Manipulate Pokémon,0.7 m (2′04″),18.0 kg (39.7 lbs),Frisk Competitive Shadow Tag,081  137  127  268 
+Gothitelle,576,Psychic,Astral Body Pokémon,1.5 m (4′11″),44.0 kg (97.0 lbs),Frisk Competitive Shadow Tag,082  138  128  269 
+Solosis,577,Psychic,Cell Pokémon,0.3 m (1′00″),1.0 kg (2.2 lbs),Overcoat Magic Guard Regenerator,083  139  115  270 
+Duosion,578,Psychic,Mitosis Pokémon,0.6 m (2′00″),8.0 kg (17.6 lbs),Overcoat Magic Guard Regenerator,084  140  116  271 
+Reuniclus,579,Psychic,Multiplying Pokémon,1.0 m (3′03″),20.1 kg (44.3 lbs),Overcoat Magic Guard Regenerator,085  141  117  272 
+Ducklett,580,Water Flying,Water Bird Pokémon,0.5 m (1′08″),5.5 kg (12.1 lbs),Keen Eye Big Pecks Hydration,086  153  127 
+Swanna,581,Water Flying,White Bird Pokémon,1.3 m (4′03″),24.2 kg (53.4 lbs),Keen Eye Big Pecks Hydration,087  154  128 
+Vanillite,582,Ice,Fresh Snow Pokémon,0.4 m (1′04″),5.7 kg (12.6 lbs),Ice Body Snow Cloak Weak Armor,088  255  085  255  332  072 
+Vanillish,583,Ice,Icy Snow Pokémon,1.1 m (3′07″),41.0 kg (90.4 lbs),Ice Body Snow Cloak Weak Armor,089  256  086  256  333  073 
+Vanilluxe,584,Ice,Snowstorm Pokémon,1.3 m (4′03″),57.5 kg (126.8 lbs),Ice Body Snow Warning Weak Armor,090  257  087  257  334  074 
+Deerling,585,Normal Grass,Season Pokémon,0.6 m (2′00″),19.5 kg (43.0 lbs),Chlorophyll Sap Sipper Serene Grace,091  159 
+Sawsbuck,586,Normal Grass,Season Pokémon,1.9 m (6′03″),92.5 kg (203.9 lbs),Chlorophyll Sap Sipper Serene Grace,092  160 
+Emolga,587,Electric Flying,Sky Squirrel Pokémon,0.4 m (1′04″),5.0 kg (11.0 lbs),Static Motor Drive,093  144  086  274  364 
+Karrablast,588,Bug,Clamping Pokémon,0.5 m (1′08″),5.9 kg (13.0 lbs),Swarm Shed Skin No Guard,094  155  022  273 
+Escavalier,589,Bug Steel,Cavalry Pokémon,1.0 m (3′03″),33.0 kg (72.8 lbs),Swarm Shell Armor Overcoat,095  156  023  274 
+Foongus,590,Grass Poison,Mushroom Pokémon,0.2 m (0′08″),1.0 kg (2.2 lbs),Effect Spore Regenerator,096  161  053 
+Amoonguss,591,Grass Poison,Mushroom Pokémon,0.6 m (2′00″),10.5 kg (23.1 lbs),Effect Spore Regenerator,097  162  054 
+Frillish,592,Water Ghost,Floating Pokémon,1.2 m (3′11″),33.0 kg (72.8 lbs),Water Absorb Cursed Body Damp,098  180  318  305 
+Jellicent,593,Water Ghost,Floating Pokémon,2.2 m (7′03″),135.0 kg (297.6 lbs),Water Absorb Cursed Body Damp,099  181  319  306 
+Alomomola,594,Water,Caring Pokémon,1.2 m (3′11″),31.6 kg (69.7 lbs),Healer Hydration Regenerator,100  182  149  157  191 
+Joltik,595,Bug Electric,Attaching Pokémon,0.1 m (0′04″),0.6 kg (1.3 lbs),Compound Eyes Unnerve Swarm,101  173  064 
+Galvantula,596,Bug Electric,EleSpider Pokémon,0.8 m (2′07″),14.3 kg (31.5 lbs),Compound Eyes Unnerve Swarm,102  174  065 
+Ferroseed,597,Grass Steel,Thorn Seed Pokémon,0.6 m (2′00″),18.8 kg (41.4 lbs),Iron Barbs Anticipation,103  175  069  189 
+Ferrothorn,598,Grass Steel,Thorn Pod Pokémon,1.0 m (3′03″),110.0 kg (242.5 lbs),Iron Barbs Anticipation,104  176  070  190 
+Klink,599,Steel,Gear Pokémon,0.3 m (1′00″),21.0 kg (46.3 lbs),Plus Minus Clear Body,105  130  113 
+Klang,600,Steel,Gear Pokémon,0.6 m (2′00″),51.0 kg (112.4 lbs),Plus Minus Clear Body,106  131  114 
+Klinklang,601,Steel,Gear Pokémon,0.6 m (2′00″),81.0 kg (178.6 lbs),Plus Minus Clear Body,107  132  115 
+Tynamo,602,Electric,EleFish Pokémon,0.2 m (0′08″),0.3 kg (0.7 lbs),Levitate,108  177 
+Eelektrik,603,Electric,EleFish Pokémon,1.2 m (3′11″),22.0 kg (48.5 lbs),Levitate,109  178 
+Eelektross,604,Electric,EleFish Pokémon,2.1 m (6′11″),80.5 kg (177.5 lbs),Levitate,110  179 
+Elgyem,605,Psychic,Cerebral Pokémon,0.5 m (1′08″),9.0 kg (19.8 lbs),Telepathy Synchronize Analytic,111  188  275  277 
+Beheeyem,606,Psychic,Cerebral Pokémon,1.0 m (3′03″),34.5 kg (76.1 lbs),Telepathy Synchronize Analytic,112  189  276  278 
+Litwick,607,Ghost Fire,Candle Pokémon,0.3 m (1′00″),3.1 kg (6.8 lbs),Flash Fire Flame Body Infiltrator,113  190  065  287 
+Lampent,608,Ghost Fire,Lamp Pokémon,0.6 m (2′00″),13.0 kg (28.7 lbs),Flash Fire Flame Body Infiltrator,114  191  066  288 
+Chandelure,609,Ghost Fire,Luring Pokémon,1.0 m (3′03″),34.3 kg (75.6 lbs),Flash Fire Flame Body Infiltrator,115  192  067  289 
+Axew,610,Dragon,Tusk Pokémon,0.6 m (2′00″),18.0 kg (39.7 lbs),Rivalry Mold Breaker Unnerve,116  183  148  324 
+Fraxure,611,Dragon,Axe Jaw Pokémon,1.0 m (3′03″),36.0 kg (79.4 lbs),Rivalry Mold Breaker Unnerve,117  184  149  325 
+Haxorus,612,Dragon,Axe Jaw Pokémon,1.8 m (5′11″),105.5 kg (232.6 lbs),Rivalry Mold Breaker Unnerve,118  185  150  326 
+Cubchoo,613,Ice,Chill Pokémon,0.5 m (1′08″),8.5 kg (18.7 lbs),Snow Cloak Slush Rush Rattled,119  195  081  279 
+Beartic,614,Ice,Freezing Pokémon,2.6 m (8′06″),260.0 kg (573.2 lbs),Snow Cloak Slush Rush Swift Swim,120  196  082  280 
+Cryogonal,615,Ice,Crystallizing Pokémon,1.1 m (3′07″),148.0 kg (326.3 lbs),Levitate,121  197  111 
+Shelmet,616,Bug,Snail Pokémon,0.4 m (1′04″),7.7 kg (17.0 lbs),Hydration Shell Armor Overcoat,122  157  024  275 
+Accelgor,617,Bug,Shell Out Pokémon,0.8 m (2′07″),25.3 kg (55.8 lbs),Hydration Sticky Hold Unburden,123  158  025  276 
+Stunfisk,618,Ground Electric Ground Steel,Trap Pokémon,0.7 m (2′04″),11.0 kg (24.3 lbs) 20.5 kg (45.2 lbs),Static Limber Sand Veil Mimicry,124  231  039  226  124  231  039  226 
+Mienfoo,619,Fighting,Martial Arts Pokémon,0.9 m (2′11″),20.0 kg (44.1 lbs),Inner Focus Regenerator Reckless,125  219  003  359 
+Mienshao,620,Fighting,Martial Arts Pokémon,1.4 m (4′07″),35.5 kg (78.3 lbs),Inner Focus Regenerator Reckless,126  220  004  360 
+Druddigon,621,Dragon,Cave Pokémon,1.6 m (5′03″),139.0 kg (306.4 lbs),Rough Skin Sheer Force Mold Breaker,127  270  141  374 
+Golett,622,Ground Ghost,Automaton Pokémon,1.0 m (3′03″),92.0 kg (202.8 lbs),Iron Fist Klutz No Guard,128  271  091  312  088 
+Golurk,623,Ground Ghost,Automaton Pokémon,2.8 m (9′02″),330.0 kg (727.5 lbs),Iron Fist Klutz No Guard,129  272  092  313  089 
+Pawniard,624,Dark Steel,Sharp Blade Pokémon,0.5 m (1′08″),10.2 kg (22.5 lbs),Defiant Inner Focus Pressure,130  223  048  337  246 
+Bisharp,625,Dark Steel,Sword Blade Pokémon,1.6 m (5′03″),70.0 kg (154.3 lbs),Defiant Inner Focus Pressure,131  224  049  338  247 
+Bouffalant,626,Normal,Bash Buffalo Pokémon,1.6 m (5′03″),94.6 kg (208.6 lbs),Reckless Sap Sipper Soundproof,132  269 
+Rufflet,627,Normal Flying,Eaglet Pokémon,0.5 m (1′08″),10.5 kg (23.1 lbs),Keen Eye Sheer Force Hustle,133  109  075  089  281 
+Braviary,628,Normal Flying,Valiant Pokémon,1.5 m (4′11″),41.0 kg (90.4 lbs),Keen Eye Sheer Force Defiant,134  110  076  090  282 
+Vullaby,629,Dark Flying,Diapered Pokémon,0.5 m (1′08″),9.0 kg (19.8 lbs),Big Pecks Overcoat Weak Armor,135  111  077  091  283 
+Mandibuzz,630,Dark Flying,Bone Vulture Pokémon,1.2 m (3′11″),39.5 kg (87.1 lbs),Big Pecks Overcoat Weak Armor,136  112  078  092  284 
+Heatmor,631,Fire,Anteater Pokémon,1.4 m (4′07″),58.0 kg (127.9 lbs),Gluttony Flash Fire White Smoke,137  193  105  317 
+Durant,632,Bug Steel,Iron Ant Pokémon,0.3 m (1′00″),33.0 kg (72.8 lbs),Swarm Hustle Truant,138  194  106  316 
+Deino,633,Dark Dragon,Irate Pokémon,0.8 m (2′07″),17.3 kg (38.1 lbs),Hustle,139  273  142  386 
+Zweilous,634,Dark Dragon,Hostile Pokémon,1.4 m (4′07″),50.0 kg (110.2 lbs),Hustle,140  274  143  387 
+Hydreigon,635,Dark Dragon,Brutal Pokémon,1.8 m (5′11″),160.0 kg (352.7 lbs),Levitate,141  275  144  388 
+Larvesta,636,Bug Fire,Torch Pokémon,1.1 m (3′07″),28.8 kg (63.5 lbs),Flame Body Swarm,142  171  203 
+Volcarona,637,Bug Fire,Sun Pokémon,1.6 m (5′03″),46.0 kg (101.4 lbs),Flame Body Swarm,143  172  204 
+Cobalion,638,Steel Fighting,Iron Will Pokémon,2.1 m (6′11″),250.0 kg (551.2 lbs),Justified,144  225 
+Terrakion,639,Rock Fighting,Cavern Pokémon,1.9 m (6′03″),260.0 kg (573.2 lbs),Justified,145  226 
+Virizion,640,Grass Fighting,Grassland Pokémon,2.0 m (6′07″),200.0 kg (440.9 lbs),Justified,146  227 
+Tornadus,641,Flying,Cyclone Pokémon,1.5 m (4′11″) 1.4 m (4′07″),63.0 kg (138.9 lbs),Prankster Defiant Regenerator,147  198  147  198 
+Thundurus,642,Electric Flying Electric Flying,Bolt Strike Pokémon,1.5 m (4′11″) 3.0 m (9′10″),61.0 kg (134.5 lbs),Prankster Defiant Volt Absorb,148  199  148  199 
+Reshiram,643,Dragon Fire,Vast White Pokémon,3.2 m (10′06″),330.0 kg (727.5 lbs),Turboblaze,149  295 
+Zekrom,644,Dragon Electric,Deep Black Pokémon,2.9 m (9′06″),345.0 kg (760.6 lbs),Teravolt,150  296 
+Landorus,645,Ground Flying Ground Flying,Abundance Pokémon,1.5 m (4′11″) 1.3 m (4′03″),68.0 kg (149.9 lbs),Sand Force Sheer Force Intimidate,151  200  151  200 
+Kyurem,646,Dragon Ice Dragon Ice Dragon Ice,Boundary Pokémon,3.0 m (9′10″) 3.3 m (10′10″) 3.6 m (11′10″),325.0 kg (716.5 lbs),Pressure Teravolt Turboblaze,152  297  152  297  152  297 
+Keldeo,647,Water Fighting Water Fighting,Colt Pokémon,1.4 m (4′07″),48.5 kg (106.9 lbs),Justified,153  298  153  298 
+Meloetta,648,Normal Psychic Normal Fighting,Melody Pokémon,0.6 m (2′00″),6.5 kg (14.3 lbs),Serene Grace,154  299  154  299 
+Genesect,649,Bug Steel,Paleozoic Pokémon,1.5 m (4′11″),82.5 kg (181.9 lbs),Download,155  300 
+Chespin,650,Grass,Spiny Nut Pokémon,0.4 m (1′04″),9.0 kg (19.8 lbs),Overgrow Bulletproof,001 
+Quilladin,651,Grass,Spiny Armor Pokémon,0.7 m (2′04″),29.0 kg (63.9 lbs),Overgrow Bulletproof,002 
+Chesnaught,652,Grass Fighting,Spiny Armor Pokémon,1.6 m (5′03″),90.0 kg (198.4 lbs),Overgrow Bulletproof,003 
+Fennekin,653,Fire,Fox Pokémon,0.4 m (1′04″),9.4 kg (20.7 lbs),Blaze Magician,004 
+Braixen,654,Fire,Fox Pokémon,1.0 m (3′03″),14.5 kg (32.0 lbs),Blaze Magician,005 
+Delphox,655,Fire Psychic,Fox Pokémon,1.5 m (4′11″),39.0 kg (86.0 lbs),Blaze Magician,006 
+Froakie,656,Water,Bubble Frog Pokémon,0.3 m (1′00″),7.0 kg (15.4 lbs),Torrent Protean,007 
+Frogadier,657,Water,Bubble Frog Pokémon,0.6 m (2′00″),10.9 kg (24.0 lbs),Torrent Protean,008 
+Greninja,658,Water Dark Water Dark,Ninja Pokémon,1.5 m (4′11″),40.0 kg (88.2 lbs),Torrent Protean Battle Bond,009 
+Bunnelby,659,Normal,Digging Pokémon,0.4 m (1′04″),5.0 kg (11.0 lbs),Pickup Cheek Pouch Huge Power,010  048 
+Diggersby,660,Normal Ground,Digging Pokémon,1.0 m (3′03″),42.4 kg (93.5 lbs),Pickup Cheek Pouch Huge Power,011  049 
+Fletchling,661,Normal Flying,Tiny Robin Pokémon,0.3 m (1′00″),1.7 kg (3.7 lbs),Big Pecks Gale Wings,014  158  192 
+Fletchinder,662,Fire Flying,Ember Pokémon,0.7 m (2′04″),16.0 kg (35.3 lbs),Flame Body Gale Wings,015  159  193 
+Talonflame,663,Fire Flying,Scorching Pokémon,1.2 m (3′11″),24.5 kg (54.0 lbs),Flame Body Gale Wings,016  160  194 
+Scatterbug,664,Bug,Scatterdust Pokémon,0.3 m (1′00″),2.5 kg (5.5 lbs),Shield Dust Compound Eyes Friend Guard,020 
+Spewpa,665,Bug,Scatterdust Pokémon,0.3 m (1′00″),8.4 kg (18.5 lbs),Shed Skin Friend Guard,021 
+Vivillon,666,Bug Flying,Scale Pokémon,1.2 m (3′11″),17.0 kg (37.5 lbs),Shield Dust Compound Eyes Friend Guard,022 
+Litleo,667,Fire Normal,Lion Cub Pokémon,0.6 m (2′00″),13.5 kg (29.8 lbs),Rivalry Unnerve Moxie,057  370 
+Pyroar,668,Fire Normal,Royal Pokémon,1.5 m (4′11″),81.5 kg (179.7 lbs),Rivalry Unnerve Moxie,058  371 
+Flabébé,669,Fairy,Single Bloom Pokémon,0.1 m (0′04″),0.1 kg (0.2 lbs),Flower Veil Symbiosis,068  100 
+Floette,670,Fairy,Single Bloom Pokémon,0.2 m (0′08″),0.9 kg (2.0 lbs),Flower Veil Symbiosis,069  101 
+Florges,671,Fairy,Garden Pokémon,1.1 m (3′07″),10.0 kg (22.0 lbs),Flower Veil Symbiosis,070  102 
+Skiddo,672,Grass,Mount Pokémon,0.9 m (2′11″),31.0 kg (68.3 lbs),Sap Sipper Grass Pelt,089 
+Gogoat,673,Grass,Mount Pokémon,1.7 m (5′07″),91.0 kg (200.6 lbs),Sap Sipper Grass Pelt,090 
+Pancham,674,Fighting,Playful Pokémon,0.6 m (2′00″),8.0 kg (17.6 lbs),Iron Fist Mold Breaker Scrappy,091  220  284  111 
+Pangoro,675,Fighting Dark,Daunting Pokémon,2.1 m (6′11″),136.0 kg (299.8 lbs),Iron Fist Mold Breaker Scrappy,092  221  285  112 
+Furfrou,676,Normal,Poodle Pokémon,1.2 m (3′11″),28.0 kg (61.7 lbs),Fur Coat,093  030 
+Espurr,677,Psychic,Restraint Pokémon,0.3 m (1′00″),3.5 kg (7.7 lbs),Keen Eye Infiltrator Own Tempo,114  208 
+Meowstic,678,Psychic,Constraint Pokémon,0.6 m (2′00″),8.5 kg (18.7 lbs),Keen Eye Infiltrator Prankster Keen Eye Infiltrator Competitive,115  209  115  209 
+Honedge,679,Steel Ghost,Sword Pokémon,0.8 m (2′07″),2.0 kg (4.4 lbs),No Guard,117  330 
+Doublade,680,Steel Ghost,Sword Pokémon,0.8 m (2′07″),4.5 kg (9.9 lbs),No Guard,118  331 
+Aegislash,681,Steel Ghost Steel Ghost,Royal Sword Pokémon,1.7 m (5′07″),53.0 kg (116.8 lbs),Stance Change,119  332  119  332 
+Spritzee,682,Fairy,Perfume Pokémon,0.2 m (0′08″),0.5 kg (1.1 lbs),Healer Aroma Veil,129  212 
+Aromatisse,683,Fairy,Fragrance Pokémon,0.8 m (2′07″),15.5 kg (34.2 lbs),Healer Aroma Veil,130  213 
+Swirlix,684,Fairy,Cotton Candy Pokémon,0.4 m (1′04″),3.5 kg (7.7 lbs),Sweet Veil Unburden,131  210 
+Slurpuff,685,Fairy,Meringue Pokémon,0.8 m (2′07″),5.0 kg (11.0 lbs),Sweet Veil Unburden,132  211 
+Inkay,686,Dark Psychic,Revolving Pokémon,0.4 m (1′04″),3.5 kg (7.7 lbs),Contrary Suction Cups Infiltrator,010  026  290 
+Malamar,687,Dark Psychic,Overturning Pokémon,1.5 m (4′11″),47.0 kg (103.6 lbs),Contrary Suction Cups Infiltrator,011  027  291 
+Binacle,688,Rock Water,Two-Handed Pokémon,0.5 m (1′08″),31.0 kg (68.3 lbs),Sniper Tough Claws Pickpocket,021  234 
+Barbaracle,689,Rock Water,Collective Pokémon,1.3 m (4′03″),96.0 kg (211.6 lbs),Sniper Tough Claws Pickpocket,022  235 
+Skrelp,690,Poison Water,Mock Kelp Pokémon,0.5 m (1′08″),7.3 kg (16.1 lbs),Poison Point Poison Touch Adaptability,030  347 
+Dragalge,691,Poison Dragon,Mock Kelp Pokémon,1.8 m (5′11″),81.5 kg (179.7 lbs),Poison Point Poison Touch Adaptability,031  348 
+Clauncher,692,Water,Water Gun Pokémon,0.5 m (1′08″),8.3 kg (18.3 lbs),Mega Launcher,032  349 
+Clawitzer,693,Water,Howitzer Pokémon,1.3 m (4′03″),35.3 kg (77.8 lbs),Mega Launcher,033  350 
+Helioptile,694,Electric Normal,Generator Pokémon,0.5 m (1′08″),6.0 kg (13.2 lbs),Dry Skin Sand Veil Solar Power,046  318 
+Heliolisk,695,Electric Normal,Generator Pokémon,1.0 m (3′03″),21.0 kg (46.3 lbs),Dry Skin Sand Veil Solar Power,047  319 
+Tyrunt,696,Rock Dragon,Royal Heir Pokémon,0.8 m (2′07″),26.0 kg (57.3 lbs),Strong Jaw Sturdy,064  243 
+Tyrantrum,697,Rock Dragon,Despot Pokémon,2.5 m (8′02″),270.0 kg (595.2 lbs),Strong Jaw Rock Head,065  244 
+Amaura,698,Rock Ice,Tundra Pokémon,1.3 m (4′03″),25.2 kg (55.6 lbs),Refrigerate Snow Warning,066  245 
+Aurorus,699,Rock Ice,Tundra Pokémon,2.7 m (8′10″),225.0 kg (496.0 lbs),Refrigerate Snow Warning,067  246 
+Sylveon,700,Fairy,Intertwining Pokémon,1.0 m (3′03″),23.5 kg (51.8 lbs),Cute Charm Pixilate,085  131  161  204 
+Hawlucha,701,Fighting Flying,Wrestling Pokémon,0.8 m (2′07″),21.5 kg (47.4 lbs),Limber Unburden Mold Breaker,089  096  320 
+Dedenne,702,Electric Fairy,Antenna Pokémon,0.2 m (0′08″),2.2 kg (4.9 lbs),Cheek Pouch Pickup Plus,110  291 
+Carbink,703,Rock Fairy,Jewel Pokémon,0.3 m (1′00″),5.7 kg (12.6 lbs),Clear Body Sturdy,124  101  123 
+Goomy,704,Dragon,Soft Tissue Pokémon,0.3 m (1′00″),2.8 kg (6.2 lbs),Sap Sipper Hydration Gooey,019  178  217  389 
+Sliggoo,705,Dragon,Soft Tissue Pokémon,0.8 m (2′07″),17.5 kg (38.6 lbs),Sap Sipper Hydration Gooey,020  179  218  390 
+Goodra,706,Dragon,Dragon Pokémon,2.0 m (6′07″),150.5 kg (331.8 lbs),Sap Sipper Hydration Gooey,021  180  219  391 
+Klefki,707,Steel Fairy,Key Ring Pokémon,0.2 m (0′08″),3.0 kg (6.6 lbs),Prankster Magician,050  241  314 
+Phantump,708,Ghost Grass,Stump Pokémon,0.4 m (1′04″),7.0 kg (15.4 lbs),Natural Cure Frisk Harvest,061  196  250  338 
+Trevenant,709,Ghost Grass,Elder Tree Pokémon,1.5 m (4′11″),71.0 kg (156.5 lbs),Natural Cure Frisk Harvest,062  197  251  339 
+Pumpkaboo,710,Ghost Grass Ghost Grass Ghost Grass Ghost Grass,Pumpkin Pokémon,0.4 m (1′04″) 0.3 m (1′00″) 0.5 m (1′08″) 0.8 m (2′07″),5.0 kg (11.0 lbs) 3.5 kg (7.7 lbs) 7.5 kg (16.5 lbs) 15.0 kg (33.1 lbs),Pickup Frisk Insomnia Pickup Frisk Insomnia Pickup Frisk Insomnia Pickup Frisk Insomnia,063  191  063  191  063  191  063  191 
+Gourgeist,711,Ghost Grass Ghost Grass Ghost Grass Ghost Grass,Pumpkin Pokémon,0.9 m (2′11″) 0.7 m (2′04″) 1.1 m (3′07″) 1.7 m (5′07″),12.5 kg (27.6 lbs) 9.5 kg (20.9 lbs) 14.0 kg (30.9 lbs) 39.0 kg (86.0 lbs),Pickup Frisk Insomnia Pickup Frisk Insomnia Pickup Frisk Insomnia Pickup Frisk Insomnia,064  192  064  192  064  192  064  192 
+Bergmite,712,Ice,Ice Chunk Pokémon,1.0 m (3′03″),99.5 kg (219.4 lbs),Own Tempo Ice Body Sturdy,079  358 
+Avalugg,713,Ice,Iceberg Pokémon,2.0 m (6′07″),505.0 kg (1113.3 lbs),Own Tempo Ice Body Sturdy,080  359 
+Noibat,714,Flying Dragon,Sound Wave Pokémon,0.5 m (1′08″),8.0 kg (17.6 lbs),Frisk Infiltrator Telepathy,113  083  176 
+Noivern,715,Flying Dragon,Sound Wave Pokémon,1.5 m (4′11″),85.0 kg (187.4 lbs),Frisk Infiltrator Telepathy,114  084  177 
+Xerneas,716,Fairy,Life Pokémon,3.0 m (9′10″),215.0 kg (474.0 lbs),Fairy Aura,148 
+Yveltal,717,Dark Flying,Destruction Pokémon,5.8 m (19′00″),203.0 kg (447.5 lbs),Dark Aura,149 
+Zygarde,718,Dragon Ground Dragon Ground Dragon Ground,Order Pokémon,5.0 m (16′05″) 1.2 m (3′11″) 4.5 m (14′09″),305.0 kg (672.4 lbs) 33.5 kg (73.9 lbs) 610.0 kg (1344.8 lbs),Aura Break Power Construct Aura Break Power Construct Power Construct,150  205  263  150  205  263  150  205  263 
+Diancie,719,Rock Fairy Rock Fairy,Jewel Pokémon,0.7 m (2′04″) 1.1 m (3′07″),8.8 kg (19.4 lbs) 27.8 kg (61.3 lbs),Clear Body Magic Bounce,151 
+Hoopa,720,Psychic Ghost Psychic Dark,Mischief Pokémon Djinn Pokémon,0.5 m (1′08″) 6.5 m (21′04″),9.0 kg (19.8 lbs) 490.0 kg (1080.3 lbs),Magician,152 
+Volcanion,721,Fire Water,Steam Pokémon,1.7 m (5′07″),195.0 kg (429.9 lbs),Water Absorb,153 
+Rowlet,722,Grass Flying,Grass Quill Pokémon,0.3 m (1′00″),1.5 kg (3.3 lbs),Overgrow Long Reach,001 
+Dartrix,723,Grass Flying,Blade Quill Pokémon,0.7 m (2′04″),16.0 kg (35.3 lbs),Overgrow Long Reach,002 
+Decidueye,724,Grass Ghost,Arrow Quill Pokémon,1.6 m (5′03″),36.6 kg (80.7 lbs),Overgrow Long Reach,003 
+Litten,725,Fire,Fire Cat Pokémon,0.4 m (1′04″),4.3 kg (9.5 lbs),Blaze Intimidate,004 
+Torracat,726,Fire,Fire Cat Pokémon,0.7 m (2′04″),25.0 kg (55.1 lbs),Blaze Intimidate,005 
+Incineroar,727,Fire Dark,Heel Pokémon,1.8 m (5′11″),83.0 kg (183.0 lbs),Blaze Intimidate,006 
+Popplio,728,Water,Sea Lion Pokémon,0.4 m (1′04″),7.5 kg (16.5 lbs),Torrent Liquid Voice,007 
+Brionne,729,Water,Pop Star Pokémon,0.6 m (2′00″),17.5 kg (38.6 lbs),Torrent Liquid Voice,008 
+Primarina,730,Water Fairy,Soloist Pokémon,1.8 m (5′11″),44.0 kg (97.0 lbs),Torrent Liquid Voice,009 
+Pikipek,731,Normal Flying,Woodpecker Pokémon,0.3 m (1′00″),1.2 kg (2.6 lbs),Keen Eye Skill Link Pickup,010 
+Trumbeak,732,Normal Flying,Bugle Beak Pokémon,0.6 m (2′00″),14.8 kg (32.6 lbs),Keen Eye Skill Link Pickup,011 
+Toucannon,733,Normal Flying,Cannon Pokémon,1.1 m (3′07″),26.0 kg (57.3 lbs),Keen Eye Skill Link Sheer Force,012 
+Yungoos,734,Normal,Loitering Pokémon,0.4 m (1′04″),6.0 kg (13.2 lbs),Strong Jaw Stakeout Adaptability,013 
+Gumshoos,735,Normal,Stakeout Pokémon,0.7 m (2′04″),14.2 kg (31.3 lbs),Strong Jaw Stakeout Adaptability,014 
+Grubbin,736,Bug,Larva Pokémon,0.4 m (1′04″),4.4 kg (9.7 lbs),Swarm,027  034  016 
+Charjabug,737,Bug Electric,Battery Pokémon,0.5 m (1′08″),10.5 kg (23.1 lbs),Battery,028  035  017 
+Vikavolt,738,Bug Electric,Stag Beetle Pokémon,1.5 m (4′11″),45.0 kg (99.2 lbs),Levitate,029  036  018 
+Crabrawler,739,Fighting,Boxing Pokémon,0.6 m (2′00″),7.0 kg (15.4 lbs),Hyper Cutter Iron Fist Anger Point,059  071 
+Crabominable,740,Fighting Ice,Woolly Crab Pokémon,1.7 m (5′07″),180.0 kg (396.8 lbs),Hyper Cutter Iron Fist Anger Point,060  072 
+Oricorio,741,Fire Flying Electric Flying Psychic Flying Ghost Flying,Dancing Pokémon,0.6 m (2′00″),3.4 kg (7.5 lbs),Dancer,082  097  082  097  082  097  082  097 
+Cutiefly,742,Bug Fairy,Bee Fly Pokémon,0.1 m (0′04″),0.2 kg (0.4 lbs),Honey Gather Shield Dust Sweet Veil,083  098  187 
+Ribombee,743,Bug Fairy,Bee Fly Pokémon,0.2 m (0′08″),0.5 kg (1.1 lbs),Honey Gather Shield Dust Sweet Veil,084  099  188 
+Rockruff,744,Rock,Puppy Pokémon,0.5 m (1′08″),9.2 kg (20.3 lbs),Keen Eye Vital Spirit Steadfast Own Tempo,103  126  103  126 
+Lycanroc,745,Rock,Wolf Pokémon,0.8 m (2′07″) 1.1 m (3′07″) 0.8 m (2′07″),25.0 kg (55.1 lbs),Keen Eye Sand Rush Steadfast Keen Eye Vital Spirit No Guard Tough Claws,104  127  104  127  104  127 
+Wishiwashi,746,Water,Small Fry Pokémon,0.2 m (0′08″) 8.2 m (26′11″),0.3 kg (0.7 lbs) 78.6 kg (173.3 lbs),Schooling,110  133  155  110  133  155 
+Mareanie,747,Poison Water,Brutal Star Pokémon,0.4 m (1′04″),8.0 kg (17.6 lbs),Merciless Limber Regenerator,113  136  307 
+Toxapex,748,Poison Water,Brutal Star Pokémon,0.7 m (2′04″),14.5 kg (32.0 lbs),Merciless Limber Regenerator,114  137  308 
+Mudbray,749,Ground,Donkey Pokémon,1.0 m (3′03″),110.0 kg (242.5 lbs),Own Tempo Stamina Inner Focus,132  165  084 
+Mudsdale,750,Ground,Draft Horse Pokémon,2.5 m (8′02″),920.0 kg (2028.3 lbs),Own Tempo Stamina Inner Focus,133  166  085 
+Dewpider,751,Water Bug,Water Bubble Pokémon,0.3 m (1′00″),4.0 kg (8.8 lbs),Water Bubble Water Absorb,141  174  214 
+Araquanid,752,Water Bug,Water Bubble Pokémon,1.8 m (5′11″),82.0 kg (180.8 lbs),Water Bubble Water Absorb,142  175  215 
+Fomantis,753,Grass,Sickle Grass Pokémon,0.3 m (1′00″),1.5 kg (3.3 lbs),Leaf Guard Contrary,143  176 
+Lurantis,754,Grass,Bloom Sickle Pokémon,0.9 m (2′11″),18.5 kg (40.8 lbs),Leaf Guard Contrary,144  177 
+Morelull,755,Grass Fairy,Illuminating Pokémon,0.2 m (0′08″),1.5 kg (3.3 lbs),Illuminate Effect Spore Rain Dish,145  178  340 
+Shiinotic,756,Grass Fairy,Illuminating Pokémon,1.0 m (3′03″),11.5 kg (25.4 lbs),Illuminate Effect Spore Rain Dish,146  179  341 
+Salandit,757,Poison Fire,Toxic Lizard Pokémon,0.6 m (2′00″),4.8 kg (10.6 lbs),Corrosion Oblivious,161  195  244 
+Salazzle,758,Poison Fire,Toxic Lizard Pokémon,1.2 m (3′11″),22.2 kg (48.9 lbs),Corrosion Oblivious,162  196  245 
+Stufful,759,Normal Fighting,Flailing Pokémon,0.5 m (1′08″),6.8 kg (15.0 lbs),Fluffy Klutz Cute Charm,169  205  094 
+Bewear,760,Normal Fighting,Strong Arm Pokémon,2.1 m (6′11″),135.0 kg (297.6 lbs),Fluffy Klutz Unnerve,170  206  095 
+Bounsweet,761,Grass,Fruit Pokémon,0.3 m (1′00″),3.2 kg (7.1 lbs),Leaf Guard Oblivious Sweet Veil,171  207  052 
+Steenee,762,Grass,Fruit Pokémon,0.7 m (2′04″),8.2 kg (18.1 lbs),Leaf Guard Oblivious Sweet Veil,172  208  053 
+Tsareena,763,Grass,Fruit Pokémon,1.2 m (3′11″),21.4 kg (47.2 lbs),Leaf Guard Queenly Majesty Sweet Veil,173  209  054 
+Comfey,764,Fairy,Posy Picker Pokémon,0.1 m (0′04″),0.3 kg (0.7 lbs),Flower Veil Triage Natural Cure,174  210 
+Oranguru,765,Normal Psychic,Sage Pokémon,1.5 m (4′11″),76.0 kg (167.6 lbs),Inner Focus Telepathy Symbiosis,176  215  342 
+Passimian,766,Fighting,Teamwork Pokémon,2.0 m (6′07″),82.8 kg (182.5 lbs),Receiver Defiant,177  216  343 
+Wimpod,767,Bug Water,Turn Tail Pokémon,0.5 m (1′08″),12.0 kg (26.5 lbs),Wimp Out,182  221  232 
+Golisopod,768,Bug Water,Hard Scale Pokémon,2.0 m (6′07″),108.0 kg (238.1 lbs),Emergency Exit,183  222  233 
+Sandygast,769,Ghost Ground,Sand Heap Pokémon,0.5 m (1′08″),70.0 kg (154.3 lbs),Water Compaction Sand Veil,186  225 
+Palossand,770,Ghost Ground,Sand Castle Pokémon,1.3 m (4′03″),250.0 kg (551.2 lbs),Water Compaction Sand Veil,187  226 
+Pyukumuku,771,Water,Sea Cucumber Pokémon,0.3 m (1′00″),1.2 kg (2.6 lbs),Innards Out Unaware,200  256  156 
+Type: Null,772,Normal,Synthetic Pokémon,1.9 m (6′03″),120.5 kg (265.7 lbs),Battle Armor,203  259  381 
+Silvally,773,Normal,Synthetic Pokémon,2.3 m (7′07″),100.5 kg (221.6 lbs),RKS System,204  260  382 
+Minior,774,Rock Flying Rock Flying,Meteor Pokémon,0.3 m (1′00″),40.0 kg (88.2 lbs) 0.3 kg (0.7 lbs),Shields Down,213  277  213  277 
+Komala,775,Normal,Drowsing Pokémon,0.4 m (1′04″),19.9 kg (43.9 lbs),Comatose,222  286 
+Turtonator,776,Fire Dragon,Blast Turtle Pokémon,2.0 m (6′07″),212.0 kg (467.4 lbs),Shell Armor,224  288  347 
+Togedemaru,777,Electric Steel,Roly-Poly Pokémon,0.3 m (1′00″),3.3 kg (7.3 lbs),Iron Barbs Lightning Rod Sturdy,225  292  348 
+Mimikyu,778,Ghost Fairy,Disguise Pokémon,0.2 m (0′08″),0.7 kg (1.5 lbs),Disguise,242  315  301 
+Bruxish,779,Water Psychic,Gnash Teeth Pokémon,0.9 m (2′11″),19.0 kg (41.9 lbs),Dazzling Strong Jaw Wonder Skin,243  320 
+Drampa,780,Normal Dragon,Placid Pokémon,3.0 m (9′10″),185.0 kg (407.9 lbs),Berserk Sap Sipper Cloud Nine,244  321  346 
+Dhelmise,781,Ghost Grass,Sea Creeper Pokémon,3.9 m (12′10″),210.0 kg (463.0 lbs),Steelworker,263  344  360 
+Jangmo-o,782,Dragon,Scaly Pokémon,0.6 m (2′00″),29.7 kg (65.5 lbs),Bulletproof Soundproof Overcoat,271  361  392 
+Hakamo-o,783,Dragon Fighting,Scaly Pokémon,1.2 m (3′11″),47.0 kg (103.6 lbs),Bulletproof Soundproof Overcoat,272  362  393 
+Kommo-o,784,Dragon Fighting,Scaly Pokémon,1.6 m (5′03″),78.2 kg (172.4 lbs),Bulletproof Soundproof Overcoat,273  363  394 
+Tapu Koko,785,Electric Fairy,Land Spirit Pokémon,1.8 m (5′11″),20.5 kg (45.2 lbs),Electric Surge Telepathy,285  383 
+Tapu Lele,786,Psychic Fairy,Land Spirit Pokémon,1.2 m (3′11″),18.6 kg (41.0 lbs),Psychic Surge Telepathy,286  384 
+Tapu Bulu,787,Grass Fairy,Land Spirit Pokémon,1.9 m (6′03″),45.5 kg (100.3 lbs),Grassy Surge Telepathy,287  385 
+Tapu Fini,788,Water Fairy,Land Spirit Pokémon,1.3 m (4′03″),21.2 kg (46.7 lbs),Misty Surge Telepathy,288  386 
+Cosmog,789,Psychic,Nebula Pokémon,0.2 m (0′08″),0.1 kg (0.2 lbs),Unaware,289  387 
+Cosmoem,790,Psychic,Protostar Pokémon,0.1 m (0′04″),999.9 kg (2204.4 lbs),Sturdy,290  388 
+Solgaleo,791,Psychic Steel,Sunne Pokémon,3.4 m (11′02″),230.0 kg (507.1 lbs),Full Metal Body,291  389 
+Lunala,792,Psychic Ghost,Moone Pokémon,4.0 m (13′01″),120.0 kg (264.6 lbs),Shadow Shield,292  390 
+Nihilego,793,Rock Poison,Parasite Pokémon,1.2 m (3′11″),55.5 kg (122.4 lbs),Beast Boost,293  393 
+Buzzwole,794,Bug Fighting,Swollen Pokémon,2.4 m (7′10″),333.6 kg (735.5 lbs),Beast Boost,294  394 
+Pheromosa,795,Bug Fighting,Lissome Pokémon,1.8 m (5′11″),25.0 kg (55.1 lbs),Beast Boost,295  395 
+Xurkitree,796,Electric,Glowing Pokémon,3.8 m (12′06″),100.0 kg (220.5 lbs),Beast Boost,296  396 
+Celesteela,797,Steel Flying,Launch Pokémon,9.2 m (30′02″),999.9 kg (2204.4 lbs),Beast Boost,297  397 
+Kartana,798,Grass Steel,Drawn Sword Pokémon,0.3 m (1′00″),0.1 kg (0.2 lbs),Beast Boost,298  398 
+Guzzlord,799,Dark Dragon,Junkivore Pokémon,5.5 m (18′01″),888.0 kg (1957.7 lbs),Beast Boost,299  399 
+Necrozma,800,Psychic,Prism Pokémon,2.4 m (7′10″) 3.8 m (12′06″) 4.2 m (13′09″) 7.5 m (24′07″),230.0 kg (507.1 lbs) 460.0 kg (1014.1 lbs) 350.0 kg (771.6 lbs) 230.0 kg (507.1 lbs),Prism Armor,300  400  300  400  300  400  300  400 
+Magearna,801,Steel Fairy,Artificial Pokémon,1.0 m (3′03″),80.5 kg (177.5 lbs),Soul-Heart,301  401 
+Marshadow,802,Fighting Ghost,Gloomdweller Pokémon,0.7 m (2′04″),22.2 kg (48.9 lbs),Technician,302  402 
+Poipole,803,Poison,Poison Pin Pokémon,0.6 m (2′00″),1.8 kg (4.0 lbs),Beast Boost,261 
+Naganadel,804,Poison Dragon,Poison Pin Pokémon,3.6 m (11′10″),150.0 kg (330.7 lbs),Beast Boost,262 
+Stakataka,805,Rock Steel,Rampart Pokémon,5.5 m (18′01″),820.0 kg (1807.8 lbs),Beast Boost,391 
+Blacephalon,806,Fire Ghost,Fireworks Pokémon,1.8 m (5′11″),13.0 kg (28.7 lbs),Beast Boost,392 
+Zeraora,807,Electric,Thunderclap Pokémon,1.5 m (4′11″),44.5 kg (98.1 lbs),Volt Absorb,403 
+Meltan,808,Steel,Hex Nut Pokémon,0.2 m (0′08″),8.0 kg (17.6 lbs),Magnet Pull,152 
+Melmetal,809,Steel,Hex Nut Pokémon,2.5 m (8′02″),800.0 kg (1763.7 lbs),Iron Fist,153 
